@@ -1,0 +1,76 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "description": "Named hydropower plants and dams OpenStreetMap has in the corridor.",
+ "retrieved": "2026-08-28",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.146868,
+     27.924946
+    ]
+   },
+   "properties": {
+    "name": "Trishuli Hydro Power Dam",
+    "kind": "dam",
+    "output": "",
+    "km_from_river": 0.42,
+    "osm_id": "way/755069236",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1459943,
+     27.9214787
+    ]
+   },
+   "properties": {
+    "name": "Trishuli Hydropower Station",
+    "kind": "hydropower plant",
+    "output": "24 MW",
+    "km_from_river": 0.1,
+    "osm_id": "relation/5143911",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5393265,
+     27.8762861
+    ]
+   },
+   "properties": {
+    "name": "Marsyangdi Hydro Power",
+    "kind": "hydropower plant",
+    "output": "",
+    "km_from_river": 2.78,
+    "osm_id": "way/290486331",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "description": "Where the water in this story leaves the Gandak and joins the Ganga.",
+ "retrieved": "2026-08-28",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.2047958,
+     25.6177683
+    ]
+   },
+   "properties": {
+    "name": "Gandak into the Ganga",
+    "place": "near Patna, Bihar, India",
+    "how_found": "the end of the Gandak closest to the Ganga, 0 m apart in OpenStreetMap",
+    "source": "derived from the OpenStreetMap and USGS layers in this dataset, as described in METHODS.md",
+    "source_url": "METHODS.md",
+    "licence": "same terms as the layers it is derived from",
+    "retrieved": "2026-08-28"
+   }
+  }
+ ]
+}

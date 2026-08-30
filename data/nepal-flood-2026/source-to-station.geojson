@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "description": "Straight line from the seismic solution to the station.",
+ "retrieved": "2026-08-28",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      85.515,
+      28.271
+     ],
+     [
+      85.279,
+      27.8
+     ]
+    ]
+   },
+   "properties": {
+    "name": "source to NK.KKN",
+    "length_km": 57.1,
+    "note": "straight line between the USGS solution and the station",
+    "source": "derived from the OpenStreetMap and USGS layers in this dataset, as described in METHODS.md",
+    "source_url": "METHODS.md",
+    "licence": "same terms as the layers it is derived from",
+    "retrieved": "2026-08-28"
+   }
+  }
+ ]
+}

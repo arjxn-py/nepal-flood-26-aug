@@ -1,0 +1,36 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "description": "The broadband station this story reads the waveform from.",
+ "retrieved": "2026-08-28",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.279,
+     27.8
+    ]
+   },
+   "properties": {
+    "code": "NK.KKN..BHZ",
+    "name": "Kakani, Nepal",
+    "sensor": "Guralp CMG-3T broadband",
+    "sample_rate_hz": 50,
+    "elevation_m": 2042.0,
+    "km_from_source": 57.1,
+    "operator": "EarthScope FDSN",
+    "source": "EarthScope FDSN station and dataselect services",
+    "source_url": "https://service.earthscope.org/",
+    "licence": "open data, attribution requested",
+    "retrieved": "2026-08-28"
+   }
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+  "measure": "modelled population within a distance of the flood path",
+  "raster": "https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/2026/NPL/v1/100m/constrained/npl_pop_2026_CN_100m_R2025A_v1.tif",
+  "raster_year": 2026,
+  "citation": "Bondarenko M., Priyatikanto R., Tejedor-Garavito N., Zhang W., McKeen T., Cunningham A., Woods T., Hilton J., Cihan D., Nosatiuk B., Brinkhoff T., Tatem A., Sorichetta A. 2025, Constrained estimates of 2015-2030 population, WorldPop, University of Southampton",
+  "not_a_census": "WorldPop models where people live from census totals and observed built-up area. The 2026 layer is a projection within a 2015-2030 series, so these are modelled people for the year of the flood, not people counted at this river.",
+  "buffered_in": "EPSG:32645",
+  "raster_crs_assumed": "EPSG:4326",
+  "raster_nodata_assumed": -99999.0,
+  "totals": {
+    "within_500_m": 84857,
+    "within_1000_m": 172782,
+    "within_3000_m": 432820
+  },
+  "by_reach": {
+    "upper": {
+      "label": "Steep gorge (0-20 km)",
+      "within_1000_m": 1239,
+      "boundaries": "reaches upstream of this one are cut out of it"
+    },
+    "middle": {
+      "label": "Middle valley (20-60 km)",
+      "within_1000_m": 14574,
+      "boundaries": "reaches upstream of this one are cut out of it"
+    },
+    "lower": {
+      "label": "Open valley (60-210 km)",
+      "within_1000_m": 156970,
+      "boundaries": "reaches upstream of this one are cut out of it"
+    }
+  },
+  "sources": [
+    {
+      "source": "WorldPop, Nepal 2026, constrained 100 m population counts (R2025A)",
+      "source_url": "https://www.worldpop.org/",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "source": "derived from the OpenStreetMap and USGS layers in this dataset, as described in METHODS.md",
+      "source_url": "METHODS.md",
+      "licence": "same terms as the layers it is derived from"
+    }
+  ],
+  "retrieved": "2026-08-28"
+}

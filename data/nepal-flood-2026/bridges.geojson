@@ -1,0 +1,2888 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "description": "Road bridges within 150 m of the flood path.",
+ "retrieved": "2026-08-28",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.2149427,
+     28.0768973
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/341573395",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 41.9,
+    "km_from_channel": 0.01,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.212961,
+     28.0757562
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1552872404",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 42.1,
+    "km_from_channel": 0.02,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.2062859,
+     28.0651864
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/912360483",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 43.8,
+    "km_from_channel": 0.01,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.2063148,
+     28.0529952
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/340465628",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 45.3,
+    "km_from_channel": 0.06,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1939977,
+     28.0410732
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/340465627",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 47.1,
+    "km_from_channel": 0.07,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1835885,
+     28.0090048
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/340474167",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 51.3,
+    "km_from_channel": 0.02,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1849479,
+     27.9953447
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/298744773",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 52.9,
+    "km_from_channel": 0.01,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1797873,
+     27.9818403
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/343303369",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 54.7,
+    "km_from_channel": 0.05,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.181382,
+     27.9790318
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/341705735",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 55.0,
+    "km_from_channel": 0.01,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1848625,
+     27.9704073
+    ]
+   },
+   "properties": {
+    "name": "Pasang Lhamu Highway",
+    "name_local": "Pasang Lhamu Highway",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/345313942",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 56.1,
+    "km_from_channel": 0.11,
+    "reach": "Middle valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1582733,
+     27.9393243
+    ]
+   },
+   "properties": {
+    "name": "Suspension Bridge",
+    "name_local": "Suspension Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/342147151",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 60.9,
+    "km_from_channel": 0.03,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1548856,
+     27.9308521
+    ]
+   },
+   "properties": {
+    "name": "Pasang Lhamu Highway",
+    "name_local": "Pasang Lhamu Highway",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/379104231",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 61.9,
+    "km_from_channel": 0.12,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1494345,
+     27.9218851
+    ]
+   },
+   "properties": {
+    "name": "trishuli bridge",
+    "name_local": "trishuli bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/237590767",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 63.9,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1479616,
+     27.921222
+    ]
+   },
+   "properties": {
+    "name": "Trishuli Naya Pul",
+    "name_local": "Trishuli Naya Pul",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1463147997",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 64.1,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1385453,
+     27.9094103
+    ]
+   },
+   "properties": {
+    "name": "Trishuli River Old Bridge",
+    "name_local": "Trishuli River Old Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/340581850",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 66.5,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1385561,
+     27.9095018
+    ]
+   },
+   "properties": {
+    "name": "Trishuli River Bridge",
+    "name_local": "Trishuli River Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1219434228",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 66.5,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1363897,
+     27.8923231
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/303036276",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 68.7,
+    "km_from_channel": 0.03,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1158257,
+     27.87085
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/342320930",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 72.2,
+    "km_from_channel": 0.07,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1161862,
+     27.8704728
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/342320931",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 72.2,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1167142,
+     27.8699209
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/342320932",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 72.2,
+    "km_from_channel": 0.06,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0868582,
+     27.856479
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/303036282",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 76.2,
+    "km_from_channel": 0.05,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0815807,
+     27.8565568
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1552751843",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 76.7,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0716925,
+     27.8539249
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/235982823",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 77.9,
+    "km_from_channel": 0.09,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0620586,
+     27.8596131
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1553215633",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 79.0,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0579388,
+     27.857907
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/303036286",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 79.6,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0567975,
+     27.8538554
+    ]
+   },
+   "properties": {
+    "name": "Pasang Lhamu Highway",
+    "name_local": "Pasang Lhamu Highway",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/341766306",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 79.9,
+    "km_from_channel": 0.16,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0428784,
+     27.8564383
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302758285",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 81.4,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0273038,
+     27.8481424
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/209014516",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 83.4,
+    "km_from_channel": 0.13,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0223991,
+     27.8356788
+    ]
+   },
+   "properties": {
+    "name": "Suspension Bridge",
+    "name_local": "Suspension Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302755357",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 85.4,
+    "km_from_channel": 0.1,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0221699,
+     27.8325916
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1493017039",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 85.8,
+    "km_from_channel": 0.05,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0213512,
+     27.8316765
+    ]
+   },
+   "properties": {
+    "name": "Suspension Bridge",
+    "name_local": "Suspension Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302554531",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 85.9,
+    "km_from_channel": 0.07,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.013176,
+     27.809669
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302710112",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 88.7,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0012609,
+     27.8016313
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302728292",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 90.5,
+    "km_from_channel": 0.06,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9908297,
+     27.8036999
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302711992",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 91.6,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9904576,
+     27.8042558
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1266664498",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 91.8,
+    "km_from_channel": 0.09,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9750571,
+     27.8014437
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1408714165",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 93.4,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9683151,
+     27.8067502
+    ]
+   },
+   "properties": {
+    "name": "Prithvi Highway",
+    "name_local": "Prithvi Rajmarg",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332461",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 94.3,
+    "km_from_channel": 0.1,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9695887,
+     27.8072974
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1408714161",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 94.4,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9648902,
+     27.8109313
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1408714160",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 95.3,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9652911,
+     27.8119204
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1432603259",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 95.3,
+    "km_from_channel": 0.11,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9618701,
+     27.8165284
+    ]
+   },
+   "properties": {
+    "name": "Keurintar Hanging Bridge",
+    "name_local": "Keurintar Hanging Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/340856784",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 96.0,
+    "km_from_channel": 0.03,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9549966,
+     27.816616
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1408714159",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 96.8,
+    "km_from_channel": 0.07,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9445027,
+     27.8117279
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1408714158",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 98.3,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.941009,
+     27.807135
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/341375566",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 98.9,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9243593,
+     27.7977602
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1378017630",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 100.9,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9167365,
+     27.7998904
+    ]
+   },
+   "properties": {
+    "name": "Pokhare khola",
+    "name_local": "Pokhare khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332488",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 101.8,
+    "km_from_channel": 0.1,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9167928,
+     27.79999
+    ]
+   },
+   "properties": {
+    "name": "Pokhare khola",
+    "name_local": "Pokhare khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1485331752",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 101.8,
+    "km_from_channel": 0.09,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9041322,
+     27.8071973
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/341375565",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 103.8,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9020149,
+     27.8066336
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1484953717",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 104.1,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.8805886,
+     27.8095945
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/344058103",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 106.3,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.871665,
+     27.8031717
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/343722610",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 107.8,
+    "km_from_channel": 0.05,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.8540837,
+     27.8081297
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1485596672",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 109.9,
+    "km_from_channel": 0.05,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.8441835,
+     27.8024076
+    ]
+   },
+   "properties": {
+    "name": "Furke Khola Bridge",
+    "name_local": "Furke Khola Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/435417464",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 111.5,
+    "km_from_channel": 0.12,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.8356191,
+     27.8101932
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/343722608",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 112.9,
+    "km_from_channel": 0.03,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.8223775,
+     27.8111756
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/344100279",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 115.5,
+    "km_from_channel": 0.03,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.8092453,
+     27.8171161
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/341226737",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 117.8,
+    "km_from_channel": 0.03,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.8005287,
+     27.8139102
+    ]
+   },
+   "properties": {
+    "name": "Prithvi Rajmarga",
+    "name_local": "Prithvi Rajmarga",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/345107841",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 118.7,
+    "km_from_channel": 0.08,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.7772495,
+     27.8104935
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/343903499",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 121.3,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.7735486,
+     27.8088206
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/44686757",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 121.8,
+    "km_from_channel": 0.03,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.7498661,
+     27.805135
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1484945153",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 125.8,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.7377293,
+     27.8031102
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/342461139",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 127.1,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.715394,
+     27.8016646
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/344159590",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 130.4,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6999479,
+     27.8080769
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/340601089",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 132.5,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.696841,
+     27.8072324
+    ]
+   },
+   "properties": {
+    "name": "Hugdi Khola Bridge",
+    "name_local": "Hugdi Khola Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332497",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 132.8,
+    "km_from_channel": 0.15,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6906169,
+     27.8098483
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1408714156",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 133.5,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6677528,
+     27.8218128
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1408714155",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 136.4,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6648526,
+     27.8253121
+    ]
+   },
+   "properties": {
+    "name": "Mowa Khola Bridge",
+    "name_local": "Mowa Khola Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332495",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 136.9,
+    "km_from_channel": 0.08,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6625181,
+     27.8438882
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/340475093",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 139.2,
+    "km_from_channel": 0.03,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6620555,
+     27.8445814
+    ]
+   },
+   "properties": {
+    "name": "Trisuli Bridge",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1408714154",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 139.2,
+    "km_from_channel": 0.06,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6519778,
+     27.852493
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/742117040",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 140.7,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.644054,
+     27.860692
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1539400716",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 142.5,
+    "km_from_channel": 0.08,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6409431,
+     27.8600285
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1539397947",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 142.8,
+    "km_from_channel": 0.05,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6421759,
+     27.8602192
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1539397950",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 142.8,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6398787,
+     27.8600164
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/44686761",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 143.0,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6339399,
+     27.8609339
+    ]
+   },
+   "properties": {
+    "name": "Dahki khola",
+    "name_local": "Dahki khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332462",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 143.6,
+    "km_from_channel": 0.06,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6320046,
+     27.8693069
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302726220",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 144.6,
+    "km_from_channel": 0.06,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.613992,
+     27.8735259
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1485601744",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 147.7,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6083811,
+     27.8715474
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302726224",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 148.4,
+    "km_from_channel": 0.05,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5929609,
+     27.8785277
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/291573618",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 150.3,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5767282,
+     27.8633406
+    ]
+   },
+   "properties": {
+    "name": "Nagdi khola",
+    "name_local": "Nagdi khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332484",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 153.1,
+    "km_from_channel": 0.06,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5613446,
+     27.8582388
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/340480693",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 154.8,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5574652,
+     27.8546633
+    ]
+   },
+   "properties": {
+    "name": "Trishuli Bridge",
+    "name_local": "Trishuli Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/899453263",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 155.4,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.557175,
+     27.8540435
+    ]
+   },
+   "properties": {
+    "name": "Trishuli Bridge",
+    "name_local": "Trishuli Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/26951332",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 155.6,
+    "km_from_channel": 0.05,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5585088,
+     27.8503069
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332532",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 156.0,
+    "km_from_channel": 0.11,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5591323,
+     27.8473873
+    ]
+   },
+   "properties": {
+    "name": "Chinsengi khola Bridge",
+    "name_local": "Chinsengi khola Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332460",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 156.3,
+    "km_from_channel": 0.09,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5584168,
+     27.8432637
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332531",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 156.7,
+    "km_from_channel": 0.07,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5527928,
+     27.8337126
+    ]
+   },
+   "properties": {
+    "name": "Kali khola",
+    "name_local": "Kali khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332474",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 157.9,
+    "km_from_channel": 0.1,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5489874,
+     27.8312055
+    ]
+   },
+   "properties": {
+    "name": "Tope khola",
+    "name_local": "Tope khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332520",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 158.4,
+    "km_from_channel": 0.13,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5470566,
+     27.8308609
+    ]
+   },
+   "properties": {
+    "name": "Namsi khola",
+    "name_local": "Namsi khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332485",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 158.5,
+    "km_from_channel": 0.12,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5298977,
+     27.833625
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/185427273",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 160.3,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5214878,
+     27.8254185
+    ]
+   },
+   "properties": {
+    "name": "Jalbire Bridge",
+    "name_local": "Jalbire Bridge",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332472",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 161.9,
+    "km_from_channel": 0.1,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5085906,
+     27.8165086
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/185428961",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 163.9,
+    "km_from_channel": 0.05,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4961906,
+     27.819218
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332517",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 165.3,
+    "km_from_channel": 0.18,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.496357,
+     27.8194556
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1485643976",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 165.3,
+    "km_from_channel": 0.16,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4834415,
+     27.8201041
+    ]
+   },
+   "properties": {
+    "name": "Simaltal Bridge",
+    "name_local": "सिमलताल पुल",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/378605396",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 166.6,
+    "km_from_channel": 0.13,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4834597,
+     27.8200041
+    ]
+   },
+   "properties": {
+    "name": "Simaltal Bridge",
+    "name_local": "सिमलताल पुल",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1485643973",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 166.6,
+    "km_from_channel": 0.15,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4803576,
+     27.8217622
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1493337206",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 166.9,
+    "km_from_channel": 0.01,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4655051,
+     27.8233805
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302582602",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 168.6,
+    "km_from_channel": 0.02,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4665697,
+     27.8189335
+    ]
+   },
+   "properties": {
+    "name": "Dumpe khola",
+    "name_local": "Dumpe khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332465",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 169.0,
+    "km_from_channel": 0.09,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4664637,
+     27.8189894
+    ]
+   },
+   "properties": {
+    "name": "Dumpe khola",
+    "name_local": "Dumpe khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1485643969",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 169.0,
+    "km_from_channel": 0.08,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4562174,
+     27.8187718
+    ]
+   },
+   "properties": {
+    "name": "Bharatpur-Mugling Highway",
+    "name_local": "Bharatpur-Mugling Highway",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/671340085",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 170.0,
+    "km_from_channel": 0.13,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4426153,
+     27.8201064
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302582598",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 171.6,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.437525,
+     27.814245
+    ]
+   },
+   "properties": {
+    "name": "Narayanghat-Muglin Highway",
+    "name_local": "Narayanghat-Muglin Highway",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/334583513",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 172.4,
+    "km_from_channel": 0.15,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4311762,
+     27.8072066
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1022532586",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 173.7,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4316602,
+     27.8021449
+    ]
+   },
+   "properties": {
+    "name": "Khani khola",
+    "name_local": "Khani khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332475",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 174.3,
+    "km_from_channel": 0.1,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4317817,
+     27.8021483
+    ]
+   },
+   "properties": {
+    "name": "Khani khola",
+    "name_local": "Khani khola",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1265212911",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 174.3,
+    "km_from_channel": 0.11,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4319691,
+     27.7984934
+    ]
+   },
+   "properties": {
+    "name": "Lamnbauluwa Bridge",
+    "name_local": "लामुबालुवा पुल",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332480",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 174.6,
+    "km_from_channel": 0.09,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4318711,
+     27.7985318
+    ]
+   },
+   "properties": {
+    "name": "Lamnbauluwa Bridge",
+    "name_local": "लामुबालुवा पुल",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1485643964",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 174.6,
+    "km_from_channel": 0.08,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4411965,
+     27.7794869
+    ]
+   },
+   "properties": {
+    "name": "Khor",
+    "name_local": "Khor",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/140332477",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 177.4,
+    "km_from_channel": 0.13,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4411812,
+     27.7793616
+    ]
+   },
+   "properties": {
+    "name": "Khor",
+    "name_local": "Khor",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1485643961",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 177.4,
+    "km_from_channel": 0.11,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4481136,
+     27.7781992
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/695709585",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 178.0,
+    "km_from_channel": 0.06,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4660605,
+     27.7677716
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/302582603",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 180.3,
+    "km_from_channel": 0.06,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4436465,
+     27.7512453
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/1307424609",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 185.8,
+    "km_from_channel": 0.03,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4288253,
+     27.7419996
+    ]
+   },
+   "properties": {
+    "name": "unnamed",
+    "name_local": "",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/187059602",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 187.8,
+    "km_from_channel": 0.04,
+    "reach": "Open valley"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4190531,
+     27.6994107
+    ]
+   },
+   "properties": {
+    "name": "Mahendra Highway",
+    "name_local": "महेन्द्र राज्मार्ग्",
+    "kind": "bridge",
+    "what_it_is": "a road crossing of the river itself",
+    "exposed_not_damaged": "This is something the flood could reach, not something reported damaged. No located damage assessment had been published.",
+    "osm_id": "way/45310600",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "km_downstream": 194.0,
+    "km_from_channel": 0.08,
+    "reach": "Open valley"
+   }
+  }
+ ]
+}

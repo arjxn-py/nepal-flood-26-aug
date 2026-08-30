@@ -1,0 +1,433 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "description": "OpenStreetMap places within 3 km of the river line.",
+ "retrieved": "2026-08-28",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.378218,
+     28.280321
+    ]
+   },
+   "properties": {
+    "name": "Resuo",
+    "name_local": "热索",
+    "place": "village",
+    "km_from_river": 0.28,
+    "osm_id": "node/5086621424",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.3130932,
+     28.1705778
+    ]
+   },
+   "properties": {
+    "name": "Aamachhodingmo",
+    "name_local": "आमाछोदिङ्मो",
+    "place": "village",
+    "km_from_river": 2.35,
+    "osm_id": "node/13242877442",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.3391559,
+     28.1435744
+    ]
+   },
+   "properties": {
+    "name": "Brabal",
+    "name_local": "ब्राबल",
+    "place": "village",
+    "km_from_river": 1.56,
+    "osm_id": "node/2820552513",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.298525,
+     28.110361
+    ]
+   },
+   "properties": {
+    "name": "Gosaikunda",
+    "name_local": "गोसाइँकुण्ड",
+    "place": "village",
+    "km_from_river": 1.4,
+    "osm_id": "node/13242877445",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.2260042,
+     28.0573468
+    ]
+   },
+   "properties": {
+    "name": "Grang",
+    "name_local": "ग्राङ",
+    "place": "village",
+    "km_from_river": 1.7,
+    "osm_id": "node/3415550685",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1951685,
+     28.0116144
+    ]
+   },
+   "properties": {
+    "name": "Uttargaya",
+    "name_local": "उत्तरगया",
+    "place": "village",
+    "km_from_river": 0.92,
+    "osm_id": "node/13242877440",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.2134318,
+     28.0059409
+    ]
+   },
+   "properties": {
+    "name": "Kalika",
+    "name_local": "कालिका",
+    "place": "village",
+    "km_from_river": 2.81,
+    "osm_id": "node/13242877441",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.146446,
+     27.89526
+    ]
+   },
+   "properties": {
+    "name": "Bidur",
+    "name_local": "बिदुर",
+    "place": "town",
+    "km_from_river": 0.96,
+    "osm_id": "node/3499801960",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.5690916,
+     27.8881577
+    ]
+   },
+   "properties": {
+    "name": "Kotgau",
+    "name_local": "Kotgau",
+    "place": "village",
+    "km_from_river": 1.91,
+    "osm_id": "node/3484103336",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6554926,
+     27.8750488
+    ]
+   },
+   "properties": {
+    "name": "Makaising",
+    "name_local": "Makaising",
+    "place": "village",
+    "km_from_river": 1.83,
+    "osm_id": "node/4914163421",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.6215576,
+     27.8701662
+    ]
+   },
+   "properties": {
+    "name": "Ichchhakamana",
+    "name_local": "इच्छाकामना",
+    "place": "village",
+    "km_from_river": 0.61,
+    "osm_id": "node/13233416299",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.700297,
+     27.8270042
+    ]
+   },
+   "properties": {
+    "name": "Bhumlichok",
+    "name_local": "Bhumlichok",
+    "place": "village",
+    "km_from_river": 2.06,
+    "osm_id": "node/4894877151",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.7380725,
+     27.8113281
+    ]
+   },
+   "properties": {
+    "name": "Ghyalchok",
+    "name_local": "Ghyalchok",
+    "place": "village",
+    "km_from_river": 0.77,
+    "osm_id": "node/4894828107",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.7724679,
+     27.8106448
+    ]
+   },
+   "properties": {
+    "name": "Ghyalchok",
+    "name_local": "Ghyalchok",
+    "place": "village",
+    "km_from_river": 0.15,
+    "osm_id": "node/4894808470",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.769707,
+     27.8074205
+    ]
+   },
+   "properties": {
+    "name": "Benighat Rorang",
+    "name_local": "बेनीघाट रोराङ",
+    "place": "village",
+    "km_from_river": 0.3,
+    "osm_id": "node/13235260367",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.8771186,
+     27.8046804
+    ]
+   },
+   "properties": {
+    "name": "Gajuri",
+    "name_local": "गजुरी",
+    "place": "village",
+    "km_from_river": 0.4,
+    "osm_id": "node/279374584",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.7516264,
+     27.8038614
+    ]
+   },
+   "properties": {
+    "name": "Dhussa",
+    "name_local": "Dhussa",
+    "place": "village",
+    "km_from_river": 0.16,
+    "osm_id": "node/4941661567",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0004606,
+     27.7973963
+    ]
+   },
+   "properties": {
+    "name": "Galchhi",
+    "name_local": "गल्छी",
+    "place": "town",
+    "km_from_river": 0.54,
+    "osm_id": "node/279374592",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.391263,
+     27.7056594
+    ]
+   },
+   "properties": {
+    "name": "Gaindakot",
+    "name_local": "गैंडाकोट",
+    "place": "town",
+    "km_from_river": 1.73,
+    "osm_id": "node/3480075072",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4301652,
+     27.6811896
+    ]
+   },
+   "properties": {
+    "name": "Bharatpur",
+    "name_local": "भरतपुर",
+    "place": "city",
+    "km_from_river": 2.33,
+    "osm_id": "node/567090203",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28"
+   }
+  }
+ ]
+}

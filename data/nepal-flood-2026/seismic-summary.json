@@ -1,0 +1,12 @@
+{
+ "station": "NK.KKN..BHZ",
+ "place": "Kakani, Nepal",
+ "km_from_source": 57.1,
+ "sample_rate_hz": 50,
+ "onset_seconds": 40,
+ "peak_db": 49,
+ "tail_db": 11,
+ "background_nm_s": 119,
+ "source": "EarthScope FDSN, instrument response removed",
+ "window": "2026-08-26T02:39:10.000000Z to 2026-08-26T04:11:10.000000Z"
+}

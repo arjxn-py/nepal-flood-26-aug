@@ -1,0 +1,59 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "description": "River-level rises reported by ICIMOD, on their OpenStreetMap locations.",
+ "retrieved": "2026-08-28",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0004606,
+     27.7973963
+    ]
+   },
+   "properties": {
+    "name": "Galchhi",
+    "reported_rise_m": 9.0,
+    "window": "within 30 minutes",
+    "quote": "Water levels on the Trishuli River at Galchhi reportedly rose by as much as nine metres within 30 minutes.",
+    "km_downstream": 90.5,
+    "located_from": "OpenStreetMap node/279374592",
+    "reading": "reported river level, not a gauge time series",
+    "source": "ICIMOD media advisory, 26 August 2026",
+    "source_url": "https://www.icimod.org/press-release/major-flash-flood-sweeps-through-nepals-rasuwa-district-raising-fears-of-further-downstream-flooding/",
+    "licence": "figures quoted with attribution",
+    "retrieved": "2026-08-28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.82724,
+     27.813705
+    ]
+   },
+   "properties": {
+    "name": "Malekhu",
+    "reported_rise_m": 7.0,
+    "window": "over a similar period",
+    "quote": "Levels at Malekhu increased by seven metres over a similar period.",
+    "km_downstream": 115.2,
+    "located_from": "OpenStreetMap node/3013890962",
+    "reading": "reported river level, not a gauge time series",
+    "source": "ICIMOD media advisory, 26 August 2026",
+    "source_url": "https://www.icimod.org/press-release/major-flash-flood-sweeps-through-nepals-rasuwa-district-raising-fears-of-further-downstream-flooding/",
+    "licence": "figures quoted with attribution",
+    "retrieved": "2026-08-28"
+   }
+  }
+ ]
+}

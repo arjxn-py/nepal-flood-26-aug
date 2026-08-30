@@ -1,0 +1,229 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "description": "Named places along the channel, with distance travelled and an arrival window for the flood.",
+ "retrieved": "2026-08-28",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.3666715,
+     28.2528483
+    ]
+   },
+   "properties": {
+    "name": "Timure",
+    "name_local": "टिमुरे",
+    "km_downstream": 13.7,
+    "km_from_channel": 0.16,
+    "band": "upper",
+    "osm_id": "node/2553894641",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "arrival_local_earliest": "08:50",
+    "arrival_local_latest": "09:15",
+    "arrival_after_collapse": "13 min to 33 min",
+    "arrival_basis": "anchored: timed from the collapse and ICIMOD's rounded 'around 9:00' for the Bhote Koshi, read here as Timure",
+    "arrival_source": "anchored on USGS us7000tbwb and the arrival times reported by Al Jazeera and ICIMOD; see arrival-times.json"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.2960583,
+     28.1127948
+    ]
+   },
+   "properties": {
+    "name": "Dhunche",
+    "name_local": "धुन्चे",
+    "km_downstream": 32.6,
+    "km_from_channel": 1.04,
+    "band": "middle",
+    "osm_id": "node/10315965426",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "arrival_local_earliest": "09:00",
+    "arrival_local_latest": "10:15",
+    "arrival_after_collapse": "34 min to 88 min",
+    "arrival_basis": "worked out from the anchored leg and the bed gradient",
+    "arrival_source": "anchored on USGS us7000tbwb and the arrival times reported by Al Jazeera and ICIMOD; see arrival-times.json"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.1859528,
+     27.9731085
+    ]
+   },
+   "properties": {
+    "name": "Betrawati",
+    "name_local": "बेत्रावती",
+    "km_downstream": 55.9,
+    "km_from_channel": 0.19,
+    "band": "middle",
+    "osm_id": "node/268864226",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "arrival_local_earliest": "09:30",
+    "arrival_local_latest": "11:30",
+    "arrival_after_collapse": "63 min to 2.7 h",
+    "arrival_basis": "worked out from the anchored leg and the bed gradient",
+    "arrival_source": "anchored on USGS us7000tbwb and the arrival times reported by Al Jazeera and ICIMOD; see arrival-times.json"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.146446,
+     27.89526
+    ]
+   },
+   "properties": {
+    "name": "Bidur",
+    "name_local": "बिदुर",
+    "km_downstream": 67.5,
+    "km_from_channel": 0.96,
+    "band": "lower",
+    "osm_id": "node/3499801960",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "arrival_local_earliest": "10:00",
+    "arrival_local_latest": "12:45",
+    "arrival_after_collapse": "1.6 h to 4.1 h",
+    "arrival_basis": "worked out from the anchored leg and the bed gradient",
+    "arrival_source": "anchored on USGS us7000tbwb and the arrival times reported by Al Jazeera and ICIMOD; see arrival-times.json"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.0004606,
+     27.7973963
+    ]
+   },
+   "properties": {
+    "name": "Galchhi",
+    "name_local": "गल्छी",
+    "km_downstream": 90.5,
+    "km_from_channel": 0.54,
+    "band": "lower",
+    "osm_id": "node/279374592",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "arrival_local_earliest": "11:30",
+    "arrival_local_latest": "16:30",
+    "arrival_after_collapse": "3.1 h to 7.8 h",
+    "arrival_basis": "worked out from the anchored leg and the bed gradient",
+    "arrival_source": "anchored on USGS us7000tbwb and the arrival times reported by Al Jazeera and ICIMOD; see arrival-times.json"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.82724,
+     27.813705
+    ]
+   },
+   "properties": {
+    "name": "Malekhu",
+    "name_local": "मलेखु",
+    "km_downstream": 115.2,
+    "km_from_channel": 0.49,
+    "band": "lower",
+    "osm_id": "node/3013890962",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "arrival_local_earliest": "13:00",
+    "arrival_local_latest": "20:30",
+    "arrival_after_collapse": "4.6 h to 11.8 h",
+    "arrival_basis": "worked out from the anchored leg and the bed gradient",
+    "arrival_source": "anchored on USGS us7000tbwb and the arrival times reported by Al Jazeera and ICIMOD; see arrival-times.json"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4254257,
+     27.7391877
+    ]
+   },
+   "properties": {
+    "name": "Devghat",
+    "name_local": "देवघाट",
+    "km_downstream": 188.9,
+    "km_from_channel": 0.31,
+    "band": "lower",
+    "osm_id": "node/1995767582",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "arrival_local_earliest": "17:45",
+    "arrival_local_latest": "08:30 on 27 Aug",
+    "arrival_after_collapse": "9.3 h to 23.7 h",
+    "arrival_basis": "worked out from the anchored leg and the bed gradient",
+    "arrival_source": "anchored on USGS us7000tbwb and the arrival times reported by Al Jazeera and ICIMOD; see arrival-times.json"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.391263,
+     27.7056594
+    ]
+   },
+   "properties": {
+    "name": "Gaindakot",
+    "name_local": "गैंडाकोट",
+    "km_downstream": 196.0,
+    "km_from_channel": 1.73,
+    "band": "lower",
+    "osm_id": "node/3480075072",
+    "source": "OpenStreetMap via the Overpass API",
+    "source_url": "https://www.openstreetmap.org/copyright",
+    "licence": "ODbL 1.0, (c) OpenStreetMap contributors",
+    "retrieved": "2026-08-28",
+    "arrival_local_earliest": "18:15",
+    "arrival_local_latest": "09:30 on 27 Aug",
+    "arrival_after_collapse": "9.7 h to 24.9 h",
+    "arrival_basis": "worked out from the anchored leg and the bed gradient",
+    "arrival_source": "anchored on USGS us7000tbwb and the arrival times reported by Al Jazeera and ICIMOD; see arrival-times.json"
+   }
+  }
+ ]
+}

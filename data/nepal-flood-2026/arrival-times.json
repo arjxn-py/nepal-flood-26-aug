@@ -1,0 +1,175 @@
+{
+ "collapse_utc": "2026-08-26T02:52:10Z",
+ "collapse_local": "08:37",
+ "anchor": {
+  "read_as_arriving_at": "Timure",
+  "local_window": "08:50 to 09:10",
+  "quote": "water levels in the Bhote Koshi basin began rising rapidly around 9:00 AM local time on August 26",
+  "reported_by": "ICIMOD",
+  "interpretation": "ICIMOD reports a basin, not a place, and does not mention Timure. Reading the quote as the flow reaching Timure is done here, not by ICIMOD."
+ },
+ "method": "Celerity over the first reach is anchored on the two reported times. Lower reaches are scaled from it by the square root of the bed gradient ratio. That scaling is crude, and it is crudest on the flattest reach, where a flood wave is governed by channel shape and storage as much as by bed slope. The measured leg is rounded to 5 minutes and everything worked out from it to 15.",
+ "reaches": {
+  "upper": {
+   "km_start": 0.0,
+   "km_end": 20.0,
+   "gradient_m_per_km": 42.5,
+   "slowest_m_per_s": 6.95,
+   "fastest_m_per_s": 17.79,
+   "measured": true
+  },
+  "middle": {
+   "km_start": 20.0,
+   "km_end": 60.0,
+   "gradient_m_per_km": 24.3,
+   "slowest_m_per_s": 5.26,
+   "fastest_m_per_s": 13.45,
+   "measured": false
+  },
+  "lower": {
+   "km_start": 60.0,
+   "km_end": 210.0,
+   "gradient_m_per_km": 2.6,
+   "slowest_m_per_s": 1.72,
+   "fastest_m_per_s": 4.4,
+   "measured": false
+  }
+ },
+ "arrivals": [
+  {
+   "name": "Timure",
+   "km_downstream": 13.7,
+   "earliest": {
+    "utc": "2026-08-26T03:05:00Z",
+    "local": "08:50"
+   },
+   "latest": {
+    "utc": "2026-08-26T03:30:00Z",
+    "local": "09:15"
+   },
+   "after_the_collapse": "13 min to 33 min",
+   "basis": "anchored: timed from the collapse and ICIMOD's rounded 'around 9:00' for the Bhote Koshi, read here as Timure"
+  },
+  {
+   "name": "Dhunche",
+   "km_downstream": 32.6,
+   "earliest": {
+    "utc": "2026-08-26T03:15:00Z",
+    "local": "09:00"
+   },
+   "latest": {
+    "utc": "2026-08-26T04:30:00Z",
+    "local": "10:15"
+   },
+   "after_the_collapse": "34 min to 88 min",
+   "basis": "worked out from the anchored leg and the bed gradient"
+  },
+  {
+   "name": "Betrawati",
+   "km_downstream": 55.9,
+   "earliest": {
+    "utc": "2026-08-26T03:45:00Z",
+    "local": "09:30"
+   },
+   "latest": {
+    "utc": "2026-08-26T05:45:00Z",
+    "local": "11:30"
+   },
+   "after_the_collapse": "63 min to 2.7 h",
+   "basis": "worked out from the anchored leg and the bed gradient"
+  },
+  {
+   "name": "Bidur",
+   "km_downstream": 67.5,
+   "earliest": {
+    "utc": "2026-08-26T04:15:00Z",
+    "local": "10:00"
+   },
+   "latest": {
+    "utc": "2026-08-26T07:00:00Z",
+    "local": "12:45"
+   },
+   "after_the_collapse": "1.6 h to 4.1 h",
+   "basis": "worked out from the anchored leg and the bed gradient"
+  },
+  {
+   "name": "Galchhi",
+   "km_downstream": 90.5,
+   "earliest": {
+    "utc": "2026-08-26T05:45:00Z",
+    "local": "11:30"
+   },
+   "latest": {
+    "utc": "2026-08-26T10:45:00Z",
+    "local": "16:30"
+   },
+   "after_the_collapse": "3.1 h to 7.8 h",
+   "basis": "worked out from the anchored leg and the bed gradient"
+  },
+  {
+   "name": "Malekhu",
+   "km_downstream": 115.2,
+   "earliest": {
+    "utc": "2026-08-26T07:15:00Z",
+    "local": "13:00"
+   },
+   "latest": {
+    "utc": "2026-08-26T14:45:00Z",
+    "local": "20:30"
+   },
+   "after_the_collapse": "4.6 h to 11.8 h",
+   "basis": "worked out from the anchored leg and the bed gradient"
+  },
+  {
+   "name": "Devghat",
+   "km_downstream": 188.9,
+   "earliest": {
+    "utc": "2026-08-26T12:00:00Z",
+    "local": "17:45"
+   },
+   "latest": {
+    "utc": "2026-08-27T02:45:00Z",
+    "local": "08:30 on 27 Aug"
+   },
+   "after_the_collapse": "9.3 h to 23.7 h",
+   "basis": "worked out from the anchored leg and the bed gradient"
+  },
+  {
+   "name": "Gaindakot",
+   "km_downstream": 196.0,
+   "earliest": {
+    "utc": "2026-08-26T12:30:00Z",
+    "local": "18:15"
+   },
+   "latest": {
+    "utc": "2026-08-27T03:45:00Z",
+    "local": "09:30 on 27 Aug"
+   },
+   "after_the_collapse": "9.7 h to 24.9 h",
+   "basis": "worked out from the anchored leg and the bed gradient"
+  }
+ ],
+ "sources": [
+  {
+   "source": "USGS FDSN event service, event us7000tbwb",
+   "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbwb",
+   "licence": "public domain (U.S. Geological Survey)"
+  },
+  {
+   "source": "Al Jazeera, 27 August 2026",
+   "source_url": "https://www.aljazeera.com/news/2026/8/27/nepal-tibet-floods-what-happened-what-caused-them-and-who-is-missing",
+   "licence": "figures quoted with attribution"
+  },
+  {
+   "source": "ICIMOD media advisory, 26 August 2026",
+   "source_url": "https://www.icimod.org/press-release/major-flash-flood-sweeps-through-nepals-rasuwa-district-raising-fears-of-further-downstream-flooding/",
+   "licence": "figures quoted with attribution"
+  },
+  {
+   "source": "derived from the OpenStreetMap and USGS layers in this dataset, as described in METHODS.md",
+   "source_url": "METHODS.md",
+   "licence": "same terms as the layers it is derived from"
+  }
+ ],
+ "retrieved": "2026-08-28"
+}

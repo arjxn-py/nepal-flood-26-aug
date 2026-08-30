@@ -1,0 +1,21 @@
+{
+  "channel_km": 210.0,
+  "top_m": 2382,
+  "bottom_m": 167,
+  "drop_m": 2215,
+  "upper_gradient_m_per_km": 42.5,
+  "lower_gradient_m_per_km": 1.9,
+  "gradient_definitions": {
+    "upper_gradient_m_per_km": "channel head to 20 km",
+    "lower_gradient_m_per_km": "the last 100 km of the channel",
+    "band_gradients_m_per_km": "one per reach band: 0-20, 20-60, 60 km to the end"
+  },
+  "band_gradients_m_per_km": {
+    "upper": 42.5,
+    "middle": 24.3,
+    "lower": 2.6
+  },
+  "highest_ground_near_source_m": 6828,
+  "source": "Terrarium terrain tiles, AWS Open Data (SRTM-derived over Nepal)",
+  "sampled_every_m": 200
+}

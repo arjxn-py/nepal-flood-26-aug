@@ -1,0 +1,43 @@
+{
+ "channel_km": 210.0,
+ "rivers": [
+  {
+   "name": "Lhende Khola",
+   "km_start": 0.0,
+   "km_end": 10.1,
+   "length_km": 10.1,
+   "share_percent": 4.8
+  },
+  {
+   "name": "Bhote Koshi",
+   "km_start": 10.1,
+   "km_end": 24.6,
+   "length_km": 14.4,
+   "share_percent": 6.9
+  },
+  {
+   "name": "Trishuli",
+   "km_start": 24.6,
+   "km_end": 188.6,
+   "length_km": 164.0,
+   "share_percent": 78.1
+  },
+  {
+   "name": "Narayani",
+   "km_start": 188.6,
+   "km_end": 210.0,
+   "length_km": 21.4,
+   "share_percent": 10.2
+  }
+ ],
+ "aliases": {
+  "Trisuli": "Trishuli",
+  "Trishuli River": "Trishuli",
+  "Trishuli Ganga River": "Trishuli"
+ },
+ "note": "OpenStreetMap spells the Trishuli three ways on this river. They are folded together here; the spellings matched are listed in METHODS.md.",
+ "source": "derived from the OpenStreetMap and USGS layers in this dataset, as described in METHODS.md",
+ "source_url": "METHODS.md",
+ "licence": "same terms as the layers it is derived from",
+ "retrieved": "2026-08-28"
+}
