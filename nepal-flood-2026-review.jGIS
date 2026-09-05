@@ -1227,7 +1227,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**At about 08:40 on 26 August 2026, roughly a square kilometre of rock and ice\ncame off a north-facing slope above the Lhende Khola, twenty kilometres upstream\nof the Nepal-China border.**\n\nIt did not stay a landslide. It picked up the loose sediment in front of a\nretreating glacier and turned into something with far more water in it than\nrock: a debris flow that went down the valley as a wall.\n\nA seismometer recorded a signal larger than magnitude 5. That was the mountain\nmoving, not an earthquake that moved it.\n\nWhat followed ran **210 km** down four rivers in a single day,\nand by the time it reached the Ganga plain it had killed **987\npeople** that anyone has found.\n\nThis map is what the flood did, put together from what the satellites saw and\nwhat Nepal's disaster authority counted.\n\n*Scroll to begin.*\n",
+          "markdown": "**At about twenty to nine on the morning of 26 August 2026, a square kilometre\nof a mountain let go.**\n\nIt came off a north-facing slope above the Lhende Khola, twenty kilometres above\nthe Nepal-China border: rock and ice, together with the loose ground a retreating\nglacier leaves behind it.\n\nSeismometers registered something over magnitude 5, and for a while the event was\ncarried as an earthquake. It was not an earthquake. It was the mountain reaching\nthe valley floor.\n\nWhat it became on the way down was not a landslide either. It took on water and\nsediment until it was moving as a flood, and that flood ran\n**210 km** down four rivers in a single day.\n\nThis map follows it, from the slope it came off to the plain where it stopped.\n\n*Scroll to begin.*\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "08:40, and a mountain moved"
@@ -1317,7 +1317,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**This is the scar, mapped from Landsat 9: 196 hectares\nof slope that is no longer there.**\n\nNDRRMA put the detached mass at about **1 km²** of rock-glacier material.\n\n**On the map:** the brown outline is the source area\n",
+          "markdown": "**196 hectares of mountainside are simply gone.**\n\nThe scar was mapped from Landsat 9 imagery of the day it happened. NDRRMA put the mass that detached at roughly a square\nkilometre of rock-glacier material.\n\nIt sits directly above the Lhende Khola, a side stream that joins the Bhote Koshi\nabout ten kilometres below. Nothing lives up here. Everything that follows is\nwhat happened downhill of it.\n\n**On the map:** the brown outline is the source area\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The ground it came off"
@@ -1407,7 +1407,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**At 08:50 the hydrological station at Syafrubesi stopped transmitting. Its last\nreading was 1.62 m.**\n\nBy **09:15** the Department of Hydrology and Meteorology had confirmed a flood\nwave and issued warnings down the Trishuli. **679,295 SMS** went out\nthrough Nepal Telecom and Ncell.\n\nFor everyone above the gauge, the warning came after the water.\n\n**On the map:** red dots are what was later marked destroyed\n",
+          "markdown": "**Ten minutes later, the river gauge at Syafrubesi stopped sending.**\n\nIts last reading was **1.62 m**. The station is twenty kilometres below the\nslope, and it did not report again.\n\nBy **09:15** the Department of Hydrology and Meteorology had confirmed a flood\nwave and put out warnings down the Trishuli corridor.\n**679,295 text messages** went to phones along the river.\n\nEveryone below the gauge got a warning. Everyone above it got the water.\n\n**On the map:** red dots are what was later marked destroyed\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "Ten minutes later the gauge went quiet"
