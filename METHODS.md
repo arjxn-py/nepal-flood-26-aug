@@ -194,6 +194,73 @@ returned to background **75 minutes** later. An earthquake of this magnitude
 rings down in minutes. That difference is the evidence for the event being
 re-typed.
 
+## The review layers
+
+`data/nepal-flood-2026-review/` holds the assessments published in the week after
+this map was built, put onto the same channel. As with the rest of this deposit
+the generating code is not distributed, so this section stands in for it.
+
+### Where each layer comes from
+
+Every file is a published product, fetched from the Humanitarian Data Exchange on
+**2026-09-05** and reprojected to EPSG:4326, with the vertices of the polygon
+layers thinned to a **5 m** tolerance for drawing. Areas quoted in the attributes
+and in `comparison.json` were measured on the unthinned geometry in EPSG:32645.
+
+| File | Published by | What it is |
+| --- | --- | --- |
+| `extent-hot` | Humanitarian OpenStreetMap Team | The water line interpreted from drone, Landsat, PlanetScope and Sentinel imagery for 27 August. 31.7 km². |
+| `extent-unosat` | UNOSAT | The same flood as UNOSAT mapped it, multisensor, 26-28 August. 64.9 km². |
+| `destroyed-features`, `bridges`, `schools` | Humanitarian OpenStreetMap Team | Status set by OpenStreetMap volunteers from imagery, rebuilt from OSM. |
+| `copernicus-grading` | Copernicus EMS, EMSR927 | Damage graded by photo-interpretation, four areas of interest, plus the AOI 03 re-flight. |
+| `not-analysed` | Copernicus EMS, EMSR927 | Ground the analysts could not assess. |
+| `mapping-projects` | Humanitarian OpenStreetMap Team | Tasking Manager project areas, with the chainage each spans. |
+| `barrier-lakes`, `detachment-zone` | UNOSAT | Two impoundments on CARTOSAT-3 imagery of 28 August, and the source area on Landsat 9. |
+
+### Chainage
+
+`km`, `off_m` and `band` on every feature are measured against the same channel
+as the rest of this deposit: the point is projected onto the chained channel in
+EPSG:32645, `km` is the distance along it and `off_m` the distance from it. The
+reconstructed channel is **209.9 km** against the 210.0 km measured for the first
+map, which is the check that the two datasets are on one ruler.
+
+### The tier field
+
+Each feature carries `tier`, which is the strongest claim the data supports:
+**observed** for something a person or sensor recorded on a stated date,
+**predicted** for a model output not checked in the field, **reported** for a
+figure an organisation stated and we quote. No layer here is `reported`; the
+reported figures live in prose, attributed.
+
+### The comparisons
+
+`comparison.json` holds the figures the story quotes. Each is a count or a ratio
+taken directly from the layers above, with no modelling:
+
+- Bridges destroyed per reach, as a share of bridges present in that reach.
+- Destroyed features per kilometre of each reach, and their distance from the
+  channel as a median, a 90th percentile and a maximum.
+- The Copernicus AOI 03 counts for the initial product and the monitoring round.
+- The chainage at which the damage record ends, against the chainage at which the
+  Tasking Manager projects change over.
+
+### Two things these layers cannot tell you
+
+**The damage record ends at km 78.0 and the mapping projects change over at
+km 78.9.** The lower projects report 100% mapped and validated for buildings,
+roads and land use, so this is not simply unmapped ground, and the bridge losses
+do fall away downstream on their own. But a record that stops within a kilometre
+of a boundary in the mapping campaign cannot settle whether the damage stopped
+there too. `mapping-projects.geojson` is included so the question stays visible.
+
+**Four organisations counted destroyed buildings and got four numbers**: 2,813
+from Copernicus over four areas of interest, 5,048 affected from UNOSAT over a
+much larger analysis extent, 1,641 from OpenStreetMap volunteers, and 677 scored
+by HOT's fAIr model inside a single satellite tile. They cover different ground
+by different methods with different definitions. None of them is the number, and
+none should be divided by another.
+
 ## What is not here
 
 - **No flood extent.** Copernicus EMS was activated for this event as
@@ -205,3 +272,7 @@ re-typed.
   under Distance rings.
 - **The WorldPop raster itself.** Only derived totals are included. The raster
   is at the URL recorded in `exposure.json`.
+- **Any satellite imagery.** The radar check behind the review layers reads a
+  Sentinel-1 pair from the Planetary Computer at run time and redistributes
+  none of it. No optical before-and-after exists for the damaged reach: every
+  Sentinel-2 pass over it between 26 August and 5 September is 70-90% cloud.

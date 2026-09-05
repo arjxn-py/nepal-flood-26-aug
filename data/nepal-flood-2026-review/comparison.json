@@ -1,0 +1,85 @@
+{
+ "generated": "2026-09-05",
+ "channel_km": 209.9,
+ "extent_km2": {
+  "hot_27aug": 31.7,
+  "unosat_26_28aug": 64.9
+ },
+ "destroyed_features": {
+  "total": 2093,
+  "by_band": {
+   "upper": 722,
+   "middle": 846,
+   "lower": 525
+  },
+  "per_km": {
+   "upper": 36.1,
+   "middle": 21.2,
+   "lower": 3.5
+  },
+  "offset_m": {
+   "median": 108.5,
+   "p90": 185.94,
+   "max": 940.1
+  },
+  "max_km": 78.02
+ },
+ "bridges": {
+  "upper": {
+   "total": 16,
+   "destroyed": 15
+  },
+  "middle": {
+   "total": 47,
+   "destroyed": 22
+  },
+  "lower": {
+   "total": 108,
+   "destroyed": 6
+  }
+ },
+ "schools": {
+  "in_extent": 60,
+  "destroyed": 6
+ },
+ "copernicus": {
+  "initial_aois": [
+   "AOI01",
+   "AOI02",
+   "AOI03",
+   "AOI05"
+  ],
+  "initial_graded": 3816,
+  "initial_by_grade": {
+   "Destroyed": 2813,
+   "Possibly damaged": 649,
+   "Damaged": 354
+  },
+  "aoi03_reflight": {
+   "initial_graded": 2343,
+   "monitoring1_graded": 3058,
+   "initial_destroyed": 1826,
+   "monitoring1_destroyed": 2479,
+   "note": "Same area, same method, two days apart."
+  }
+ },
+ "not_analysed_km2": {
+  "AOI03": 2.62,
+  "AOI05": 5.21
+ },
+ "mapping_boundary": {
+  "destroyed_features_end_at_km": 78.02,
+  "project_changeover_km": 78.9,
+  "lower_projects_percent_mapped": [
+   100,
+   100,
+   100,
+   100
+  ]
+ },
+ "barrier_lakes_ha": [
+  19.5,
+  11.9
+ ],
+ "detachment_zone_ha": 195.7
+}
