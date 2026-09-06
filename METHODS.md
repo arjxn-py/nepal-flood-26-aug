@@ -254,8 +254,8 @@ Sentinel-2 L2A, 10 m, true colour, from the Element 84 STAC index of the AWS
 open data. No single pass after the flood is usable: every one over this
 corridor between 26 August and 6 September is **70-90% cloud**. The cloud sits
 in a different place on each, so each pass is masked to the pixels its own
-scene classification calls clear — classes 2, 4, 5, 6, 7 and 11, minus 3, 8, 9
-and 10 — and the median is taken across the window. Ground that no pass saw
+scene classification calls clear (classes 2, 4, 5, 6, 7 and 11, minus 3, 8, 9
+and 10), and the median is taken across the window. Ground that no pass saw
 clearly is drawn as a gap rather than filled in.
 
 The before side is the same operation over passes to 24 August with less than
@@ -289,8 +289,8 @@ terrain or cloud shadow); dropping the snow class from the clear set (gap → 59
 and real snow becomes a hole); the single 27 August pass alone (gap 56%);
 and 27 August with 1 September only (gap 39%, indistinguishable from the
 six-pass median). The six-pass median is kept. The limit here is the weather in
-the window, not the compositing, and no arrangement of these passes recovers
-ground none of them saw.
+the window rather than the compositing, and no arrangement of these passes
+recovers ground that none of them saw.
 
 Areas and distances quoted alongside them are measured on the UNOSAT polygons in
 EPSG:32645: the upper lake is **159 m** from the edge of the detachment polygon,
@@ -308,12 +308,11 @@ UNOSAT lake outline on the same masked-median composites, before and after:
 | upper, 19.5 ha | -0.006 | +0.051 | 39% → 99% | 1,947 of 1,960 |
 | lower, 11.9 ha | -0.059 | +0.014 | 38% → 61% | 423 of 1,183 |
 
-Both move the way water would move them. Neither moves far past the zero
-threshold usually taken for open water, which is what a silty impoundment looks
-like in mixed 10 m pixels in a shadowed valley — and also what wet sediment
-looks like. The shift is evidence of standing water; it is not a measurement of
-depth, volume or extent, and the lower outline had a clear look at barely a
-third of its pixels.
+Both move the way water would move them, and neither moves far past the zero
+threshold usually taken for open water. A silty impoundment in mixed 10 m pixels
+in a shadowed valley looks like this, and so does wet sediment. The shift is
+evidence of standing water; it is not a measurement of depth, volume or extent,
+and the lower outline had a clear look at barely a third of its pixels.
 
 ### The radar pair
 
@@ -321,20 +320,21 @@ third of its pixels.
 
 Sentinel-1 RTC gamma0 from the Microsoft Planetary Computer, VV, **relative
 orbit 85 ascending**, 16 and 28 August, both acquired at 12:21 UTC. The matched
-orbit is the whole point: in a gorge this steep a single radar image is largely a
-picture of the slope, with shadow where the terrain faces away and layover where
-it faces into the beam. Two passes of identical geometry subtract that away, and
-what is left is change on the ground. Multilooked by 3, so a displayed pixel is
+orbit is what makes the difference readable. In a gorge this steep a single
+radar image is largely a picture of the slope, with shadow where the terrain
+faces away and layover where it faces into the beam. Two passes of identical
+geometry subtract that away, and what is left is change on the ground. Multilooked by 3, so a displayed pixel is
 about 30 m and speckle is settled.
 
-Radiometric terrain correction matters more here than almost anywhere, which is
-why the RTC collection is used rather than GRD.
+Terrain correction matters a great deal in this valley, which is why the RTC
+collection is used rather than GRD.
 
-Smooth surfaces — standing water, wet mud, fresh sand — reflect away from the
-sensor and read dark, so new water or new deposit shows as a drop. **A drop in
-backscatter is not water, not sediment and not damage.** It is a change in how
-the surface reflects, and it is quoted here only against the outlines other
-people mapped.
+Smooth surfaces reflect away from the sensor and read dark, and standing water,
+wet mud and fresh sand are all smoother than the ground that was there before,
+so new water or new deposit shows as a drop. **A drop in backscatter measures
+how the surface reflects, and nothing else.** It is quoted here only against the
+outlines other people mapped, and it should not be read as water, as sediment or
+as damage.
 
 Change from 16 to 28 August, as a share of pixels dropping more than 3 dB:
 
@@ -346,10 +346,10 @@ Change from 16 to 28 August, as a share of pixels dropping more than 3 dB:
 | lower barrier lake | 131 | -4.49 dB | 57.3% |
 
 The detachment zone and the lower lake darken far more than the box around them.
-**The upper lake does not**, and that is the one where the optical water index
-moved most. The two sensors disagree about it, on 218 and 1,960 pixels
-respectively, and nothing in this dataset settles which is right. The
-disagreement is reported rather than resolved.
+The upper lake stays close to its surroundings, and it is the one where the
+optical water index moved most. The two sensors disagree about it, on 218 and
+1,960 pixels respectively, and nothing in this dataset settles which of them is
+right, so the story reports the disagreement and leaves it open.
 
 28 August is also the day UNOSAT mapped the lakes from CARTOSAT-3, so the
 outlines and the second radar pass are the same day.
