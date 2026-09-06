@@ -245,6 +245,115 @@ taken directly from the layers above, with no modelling:
 - The chainage at which the damage record ends, against the chainage at which the
   Tasking Manager projects change over.
 
+### The before and after imagery
+
+`fig-before-after-red/orange/yellow.png`, `fig-detachment-before-after.png`,
+`fig-barrier-lakes.png`
+
+Sentinel-2 L2A, 10 m, true colour, from the Element 84 STAC index of the AWS
+open data. No single pass after the flood is usable: every one over this
+corridor between 26 August and 6 September is **70-90% cloud**. The cloud sits
+in a different place on each, so each pass is masked to the pixels its own
+scene classification calls clear — classes 2, 4, 5, 6, 7 and 11, minus 3, 8, 9
+and 10 — and the median is taken across the window. Ground that no pass saw
+clearly is drawn as a gap rather than filled in.
+
+The before side is the same operation over passes to 24 August with less than
+60% scene cloud, where one nearly clear pass on 12 August does most of the work.
+The after window runs from 26 August: to 5 September for the three reach
+figures, and to 6 September for the two upper ones, which picks up one further
+pass.
+
+Six boxes in five figures:
+
+| Figure | Box | Gap after |
+| --- | --- | --- |
+| `red` | Timure and Rasuwagadhi, 6 km | 22% |
+| `orange` | Syabru Besi, 6 km | 19% |
+| `yellow` | below Bidur, 6 km | 18% |
+| `detachment` | the source area, 4.5 km | 38% |
+| `barrier-lakes` | the two impoundments, 2.8 km each | 40% and 51% |
+
+The two upper figures use a longer brightness stretch than the three reach
+figures, because at 4,000 m and above the snow saturates the reach figures'
+stretch and takes the rock with it. Neither stretch is radiometric; both sides
+of every figure share one, so the two panels can be read against each other.
+
+**What does not improve the two upper boxes.** Their gaps are large and the
+cloud that survives the mask is thin cloud lying over snow, which the scene
+classification calls snow. Five variants were tried against the six-pass median:
+growing the cloud classes by one and two pixels (gap 38% → 40% and 42%, fringes
+tidied, nothing recovered); choosing the least hazy clear observation per pixel
+instead of the median (introduces dark blotches where the darkest observation is
+terrain or cloud shadow); dropping the snow class from the clear set (gap → 59%,
+and real snow becomes a hole); the single 27 August pass alone (gap 56%);
+and 27 August with 1 September only (gap 39%, indistinguishable from the
+six-pass median). The six-pass median is kept. The limit here is the weather in
+the window, not the compositing, and no arrangement of these passes recovers
+ground none of them saw.
+
+Areas and distances quoted alongside them are measured on the UNOSAT polygons in
+EPSG:32645: the upper lake is **159 m** from the edge of the detachment polygon,
+the lower one **5.1 km** from it and **4.6 km** from the upper.
+
+### Is there water inside the lake outlines
+
+True colour cannot settle it. Fresh rock flour, dry sediment and a silt-laden
+lake all read pale. Near infrared can: water absorbs it and the rest of this
+ground does not. NDWI, (green - NIR) / (green + NIR), was sampled inside each
+UNOSAT lake outline on the same masked-median composites, before and after:
+
+| Outline | Median NDWI before | after | Pixels above zero | Clear after |
+| --- | --- | --- | --- | --- |
+| upper, 19.5 ha | -0.006 | +0.051 | 39% → 99% | 1,947 of 1,960 |
+| lower, 11.9 ha | -0.059 | +0.014 | 38% → 61% | 423 of 1,183 |
+
+Both move the way water would move them. Neither moves far past the zero
+threshold usually taken for open water, which is what a silty impoundment looks
+like in mixed 10 m pixels in a shadowed valley — and also what wet sediment
+looks like. The shift is evidence of standing water; it is not a measurement of
+depth, volume or extent, and the lower outline had a clear look at barely a
+third of its pixels.
+
+### The radar pair
+
+`fig-radar-change.png`
+
+Sentinel-1 RTC gamma0 from the Microsoft Planetary Computer, VV, **relative
+orbit 85 ascending**, 16 and 28 August, both acquired at 12:21 UTC. The matched
+orbit is the whole point: in a gorge this steep a single radar image is largely a
+picture of the slope, with shadow where the terrain faces away and layover where
+it faces into the beam. Two passes of identical geometry subtract that away, and
+what is left is change on the ground. Multilooked by 3, so a displayed pixel is
+about 30 m and speckle is settled.
+
+Radiometric terrain correction matters more here than almost anywhere, which is
+why the RTC collection is used rather than GRD.
+
+Smooth surfaces — standing water, wet mud, fresh sand — reflect away from the
+sensor and read dark, so new water or new deposit shows as a drop. **A drop in
+backscatter is not water, not sediment and not damage.** It is a change in how
+the surface reflects, and it is quoted here only against the outlines other
+people mapped.
+
+Change from 16 to 28 August, as a share of pixels dropping more than 3 dB:
+
+| Where | Pixels | Median change | Below -3 dB |
+| --- | --- | --- | --- |
+| the whole box | 72,675 | +0.30 dB | 4.1% |
+| UNOSAT detachment zone | 2,168 | -0.33 dB | 29.2% |
+| upper barrier lake | 218 | +0.41 dB | 22.5% |
+| lower barrier lake | 131 | -4.49 dB | 57.3% |
+
+The detachment zone and the lower lake darken far more than the box around them.
+**The upper lake does not**, and that is the one where the optical water index
+moved most. The two sensors disagree about it, on 218 and 1,960 pixels
+respectively, and nothing in this dataset settles which is right. The
+disagreement is reported rather than resolved.
+
+28 August is also the day UNOSAT mapped the lakes from CARTOSAT-3, so the
+outlines and the second radar pass are the same day.
+
 ### Two things these layers cannot tell you
 
 **The damage record ends at km 78.0 and the mapping projects change over at
@@ -272,7 +381,11 @@ none should be divided by another.
   under Distance rings.
 - **The WorldPop raster itself.** Only derived totals are included. The raster
   is at the URL recorded in `exposure.json`.
-- **Any satellite imagery.** The radar check behind the review layers reads a
-  Sentinel-1 pair from the Planetary Computer at run time and redistributes
-  none of it. No optical before-and-after exists for the damaged reach: every
-  Sentinel-2 pass over it between 26 August and 5 September is 70-90% cloud.
+- **Any satellite imagery.** The radar figures and checks read Sentinel-1 from
+  the Planetary Computer at run time and redistribute none of it. The optical before-and-afters are rendered figures, not data: the
+  Sentinel-2 scenes they composite are read at run time from the AWS open data
+  and none is redistributed here.
+- **The commercial imagery the agencies worked from.** Pléiades Neo and
+  WorldView-3 at 0.3 m, CARTOSAT-3 and SkySat are reserved. The outlines drawn
+  from them can be shared; the images cannot, which is why every picture here is
+  10 m and cloudy.
