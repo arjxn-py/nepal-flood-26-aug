@@ -202,10 +202,12 @@ the generating code is not distributed, so this section stands in for it.
 
 ### Where each layer comes from
 
-Every file is a published product, fetched from the Humanitarian Data Exchange on
-**2026-09-05** and reprojected to EPSG:4326, with the vertices of the polygon
-layers thinned to a **5 m** tolerance for drawing. Areas quoted in the attributes
-and in `comparison.json` were measured on the unthinned geometry in EPSG:32645.
+Every file but one is a published product, fetched from the Humanitarian Data
+Exchange on **2026-09-05** and reprojected to EPSG:4326, with the vertices of the
+polygon layers thinned to a **5 m** tolerance for drawing. Areas quoted in the
+attributes and in `comparison.json` were measured on the unthinned geometry in
+EPSG:32645. The exception is `timed-places`, which is transcribed from a
+situation report rather than fetched; it is described under the table.
 
 | File | Published by | What it is |
 | --- | --- | --- |
@@ -216,6 +218,33 @@ and in `comparison.json` were measured on the unthinned geometry in EPSG:32645.
 | `not-analysed` | Copernicus EMS, EMSR927 | Ground the analysts could not assess. |
 | `mapping-projects` | Humanitarian OpenStreetMap Team | Tasking Manager project areas, with the chainage each spans. |
 | `barrier-lakes`, `detachment-zone` | UNOSAT | Two impoundments on CARTOSAT-3 imagery of 28 August, and the source area on Landsat 9. |
+| `timed-places` | NDRRMA, on OpenStreetMap locations | The four places situation report 01 times the wave past, with the chainage of each. |
+
+### The timed places
+
+`timed-places.geojson` is four points, and it exists because the story quotes four
+arrival times in prose and the reader had nothing on the map to attach them to.
+
+The times are NDRRMA's, transcribed from situation report 01 as published:
+Galchhi 10:28, Malekhu 11:50, Mugling 13:00, Devghat 15:20. NDRRMA give no
+uncertainty on any of them, and none is a gauge trace.
+
+The coordinates are OpenStreetMap's, not NDRRMA's. Galchhi, Malekhu and Devghat
+are on the same OSM nodes the first map's `waypoints.geojson` used, retrieved
+2026-08-28. Mugling is not in that file and was looked up separately, on OSM node
+`567088223` (`place=hamlet`, `name:en=Mugling`), retrieved 2026-09-07. Each
+feature names both, in `source` and in `located_from`, and carries a `licence` for
+the times and a `location_licence` for the coordinates.
+
+These four times are **not** the modelled arrival windows in the first map's
+`arrival-times.json`, and the two disagree by hours on the lower reach: that file
+scales celerity from a single anchored leg by bed gradient, and says so. Where
+NDRRMA state an hour, this layer carries NDRRMA's hour.
+
+`label` on each feature is `"Galchhi 10:28"` and so on. It is a field rather than
+a caption because a JupyterGIS vector layer has no text channel: the story map
+colours the four dots from it and the layer panel builds a legend, but nothing
+draws the name on the map.
 
 ### Chainage
 
@@ -230,8 +259,10 @@ map, which is the check that the two datasets are on one ruler.
 Each feature carries `tier`, which is the strongest claim the data supports:
 **observed** for something a person or sensor recorded on a stated date,
 **predicted** for a model output not checked in the field, **reported** for a
-figure an organisation stated and we quote. No layer here is `reported`; the
-reported figures live in prose, attributed.
+figure an organisation stated and we quote. `timed-places` is the only
+`reported` layer here, and it is one because NDRRMA state those four times and
+nothing has re-derived them. The other reported figures live in prose,
+attributed.
 
 ### The comparisons
 

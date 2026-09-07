@@ -31,6 +31,7 @@ that is **not** the same share-alike as ODbL, so they cannot simply be merged.
 | `extent-hot`, `destroyed-features`, `bridges`, `schools`, `mapping-projects` | Humanitarian OpenStreetMap Team, rebuilt from OpenStreetMap | **ODbL 1.0**, © OpenStreetMap contributors |
 | `copernicus-grading`, `not-analysed` | Copernicus Emergency Management Service, EMSR927 | **CC BY**, © 2026 European Union |
 | `extent-unosat`, `barrier-lakes`, `detachment-zone` | United Nations Satellite Centre (UNOSAT), FL20260826NPL | **CC BY-SA** |
+| `timed-places` | Arrival times quoted from NDRRMA situation report 01, on OpenStreetMap locations | **ODbL 1.0** as a derivative of OSM; the times quoted with attribution |
 | `comparison.json`, the `km`, `off_m`, `band` and `area_*` fields | Measured here, on the channel from `data/nepal-flood-2026/` | **ODbL 1.0** (derivative of the OSM-derived channel) |
 
 **On versions.** HDX states the Copernicus and UNOSAT terms as "CC BY" and
@@ -65,6 +66,11 @@ numbers rather than as merged geometry.
 - Flood extent, damage mapping and Tasking Manager boundaries from the
   **Humanitarian OpenStreetMap Team**, rebuilt from OpenStreetMap,
   <https://data.humdata.org/dataset/hot_flood_npl>.
+- Arrival times in `timed-places` quoted from the **National Disaster Risk
+  Reduction and Management Authority (NDRRMA)**, Government of Nepal,
+  *Rasuwa-Bhotekoshi Flood: Search, Rescue and Relief Response, Situation Report
+  #01*, current as of 1 September 2026. The coordinates under them are
+  OpenStreetMap's, under the ODbL terms above.
 - Damage grading from the **Copernicus Emergency Management Service**,
   activation EMSR927, © 2026 European Union.
 - Flood extent, detachment zone and barrier lakes from the **United Nations

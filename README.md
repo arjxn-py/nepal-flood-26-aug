@@ -15,7 +15,7 @@ Lhende Khola to where the Gandak reaches the Ganga, falling 2,215 m.
 ```
 nepal-flood-2026.jGIS           the story map, 22 segments
 data/nepal-flood-2026/          18 GeoJSON layers, 5 JSON sidecars
-data/nepal-flood-2026-review/   10 layers from the assessments published later,
+data/nepal-flood-2026-review/   11 layers from the assessments published later,
                                 8 figures, and per-layer notes
 METHODS.md                      how the derived files were made, and what is absent
 LICENCES.md                     per-file licensing and attribution

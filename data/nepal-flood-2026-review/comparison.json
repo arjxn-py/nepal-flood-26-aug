@@ -5,6 +5,24 @@
   "hot_27aug": 31.7,
   "unosat_26_28aug": 64.9
  },
+ "timed_places": {
+  "Galchhi": {
+   "time": "10:28",
+   "km": 90.36
+  },
+  "Malekhu": {
+   "time": "11:50",
+   "km": 115.03
+  },
+  "Mugling": {
+   "time": "13:00",
+   "km": 154.75
+  },
+  "Devghat": {
+   "time": "15:20",
+   "km": 188.86
+  }
+ },
  "destroyed_features": {
   "total": 2093,
   "by_band": {
