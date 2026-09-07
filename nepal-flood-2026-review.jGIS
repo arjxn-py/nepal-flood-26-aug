@@ -1165,7 +1165,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**At 08:40 on the morning of 26 August 2026, a square kilometre of mountain broke\naway.**\n\nIt came off a slope above the Lhende Khola, twenty kilometres inside Nepal from\nthe China border. Rock and ice, and the loose ground a shrinking glacier leaves\nbehind.\n\nSeismometers picked it up at over magnitude 5, and for the first hours of the\nday it was carried as an earthquake. What they had recorded was the mountain\narriving on the valley floor.\n\nOn the way down it took on water and mud until it was moving as a flood, and\nthat flood ran **210 km** down four rivers in a single day.\nThis map follows it, from the slope to the plain.\n\n*Scroll to begin.*\n",
+          "markdown": "**At 08:40 in the morning on 26 August 2026, a square kilometre of mountain broke\naway.**\n\nIt fell from a slope above the Lhende Khola. That is twenty kilometres inside\nNepal from the China border. What fell was rock, ice, and the loose ground a\nshrinking glacier leaves behind.\n\nSeismometers measured it at over magnitude 5. For the first few hours of the day\nit was reported as an earthquake. It was not. It was the mountain hitting the\nvalley floor.\n\nOn the way down it picked up water and mud. By then it was a flood. It ran\n**210 km** down four rivers in one day.\nThis map follows it, from the slope to the plain.\n\n*Scroll to begin.*\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "08:40, and a mountain moved"
@@ -1260,7 +1260,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**196 hectares of mountainside are gone.**\n\nThe scar was mapped from Landsat 9 images taken the day it happened. NDRRMA put\nthe mass that broke off at roughly a square kilometre of rock and old glacier\ndebris.\n\nIt sits above the Lhende Khola, a side stream that joins the Bhote Koshi ten\nkilometres below. There is nothing up here to be damaged, and everything in the\nrest of this map happened downhill of it.\n\n**On the map:** the brown outline is where it broke away\n",
+          "markdown": "**196 hectares of mountainside are gone.**\n\nThe scar was mapped from Landsat 9 images taken on the day it happened. NDRRMA\nput the mass that broke off at about a square kilometre of rock and old glacier\ndebris.\n\nIt sits above the Lhende Khola. That is a small river that joins the Bhote Koshi\nten kilometres below. Nothing up here could be damaged. Everything else in this\nmap happened downhill of it.\n\n**On the map:** the brown outline is where it broke away\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The ground it came off"
@@ -1359,7 +1359,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**The same 4.5 km square, before the flood and after it.**\n\n![Where it came off, before and after](attachment:fig-detachment-before-after.png)\n\nBefore the flood the brown outline held dark rock and a tongue of ice. In the\nsecond picture the ice has gone from the part the satellite could see, and the\nground under it is grey and brown.\n\nThis is the highest and cloudiest box in the map. 38 per cent of the second\npicture never had a clear look at the ground, against 1 per cent of the first.\n\nThe teal outline on the left is the first of the two lakes this story ends on.\n",
+          "markdown": "**The same 4.5 km square, before the flood and after it.**\n\n![Where it came off, before and after](attachment:fig-detachment-before-after.png)\n\nBefore the flood, the brown outline held dark rock and a tongue of ice. In the\nsecond picture the ice is gone from the part the satellite could see. The ground\nunder it is grey and brown.\n\nThis is the highest and cloudiest box in the map. In the second picture, 38 per\ncent of the ground never got a clear look. In the first, only 1 per cent.\n\nThe teal outline on the left is one of the two lakes this story ends on.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The ground it came off, before and after"
@@ -1447,17 +1447,17 @@
       "visible": true
     },
     "2c7f4b20-0000-4000-8001-000000000003": {
-      "name": "Ten minutes later the gauge went quiet",
+      "name": "Ten minutes later, the gauge stopped",
       "parameters": {
         "content": {
           "attachments": {},
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Ten minutes later, the river gauge at Syafrubesi stopped sending.**\n\nIts last reading was **1.62 m**. The gauge sits twenty kilometres below the\nslope, and it never reported again.\n\nBy **09:15** the Department of Hydrology and Meteorology had confirmed a flood\nwave and warned people down the Trishuli, and **679,295 text\nmessages** went out to phones along the river.\n\nThe warning reached everyone below the gauge. The people above it had already\nhad the water.\n\n**On the map:** red dots are what was later marked destroyed\n",
+          "markdown": "**Ten minutes later, the river gauge at Syafrubesi stopped sending.**\n\nIts last reading was **1.62 m**. The gauge sits twenty kilometres below the\nslope. It never sent again.\n\nBy **09:15** the Department of Hydrology and Meteorology had confirmed a flood\nwave. It warned people down the Trishuli. **679,295 text\nmessages** went out to phones along the river.\n\nThe warning reached everyone below the gauge. The people above it already had\nthe water.\n\n**On the map:** red dots are what was later marked destroyed\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
-          "title": "Ten minutes later the gauge went quiet"
+          "title": "Ten minutes later, the gauge stopped"
         },
         "extent": [
           9471563.03209108,
@@ -1549,7 +1549,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Here the riverbed drops 42.5 m every kilometre, and the walls are\nclose.**\n\nThe river used to be a thread through forest. It is now bare rock from one wall\nto the other. In this 6 by 6 km box, **703 features** are marked destroyed,\ncounting buildings, roads and bridges together. Three health posts went with\nthem, at Timure, at Rasuwagadhi and at Syafrubesi.\n\nWater on ground this steep arrives rather than rises.\n\n**On the map:** the red reach \u00b7 dots are destroyed \u00b7 bridges dark red where lost\n",
+          "markdown": "**Here the riverbed drops 42.5 m every kilometre, and the valley walls are close\ntogether.**\n\nThe river used to be a thin line through forest. It is now bare rock from one\nwall to the other. In this 6 by 6 km box, **703 features** are marked destroyed.\nThat counts buildings, roads and bridges together. Three health posts were lost\ntoo: at Timure, Rasuwagadhi and Syafrubesi.\n\nOn ground this steep, the water hits instead of rising.\n\n**On the map:** the red reach \u00b7 dots are destroyed \u00b7 bridges dark red where lost\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The steep gorge"
@@ -1648,7 +1648,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Timure and Rasuwagadhi: the same six kilometres square, before the flood and\nafter it.**\n\n![Timure and Rasuwagadhi, before and after](attachment:fig-before-after-red.png)\n\nA thread of water through forest became bare rock and gravel, valley wall to\nvalley wall. The settlement went with the bank it stood on.\n\nGrey means no satellite got a clear look in the days after. Every pass was 70 to\n90 per cent cloud, so each picture is built from the clear pixels of several\npasses. The same is true of every picture after this one.\n",
+          "markdown": "**Timure and Rasuwagadhi: the same six kilometre square, before the flood and\nafter it.**\n\n![Timure and Rasuwagadhi, before and after](attachment:fig-before-after-red.png)\n\nA thin line of water through forest became bare rock and gravel, from one valley\nwall to the other. The village went with the bank it stood on.\n\nGrey means no satellite got a clear look in the days after. Every pass was 70 to\n90 per cent cloud. So each picture is built from the clear pixels of several\npasses. That is true of every picture after this one too.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The steep gorge, before and after"
@@ -1743,7 +1743,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Six kilometres on, the bed has flattened to 24.3 m per km and the valley\nis opening out.**\n\nThe same sized box holds **329** destroyed, less than half the gorge. The ground\nis gentler here and more people build on it. Downstream in Nuwakot alone,\n**1,267 houses** were fully damaged and\n**1,253** partly.\n\n**On the map:** the orange reach \u00b7 the blue fill is the water line that was\nobserved\n",
+          "markdown": "**Six kilometres on, the bed is flatter, at 24.3 m per km. The valley is opening\nout.**\n\nA box of the same size holds **329** destroyed. That is less than half the gorge.\nThe ground is gentler here, so more people build on it. Downstream in Nuwakot\nalone, **1,267 houses** were fully damaged and\n**1,253** partly damaged.\n\n**On the map:** the orange reach \u00b7 the blue fill is the water line that was\nobserved\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The middle valley"
@@ -1842,7 +1842,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Syabru Besi: the same six kilometres square, before the flood and after it.**\n\n![Syabru Besi, before and after](attachment:fig-before-after-orange.png)\n\nThe river was already broad here. It came out broader and pale with new sand,\ntaking the fields and the edge of the road rather than the whole valley floor.\n",
+          "markdown": "**Syabru Besi: the same six kilometre square, before the flood and after it.**\n\n![Syabru Besi, before and after](attachment:fig-before-after-orange.png)\n\nThe river was already wide here. It came out wider still, and pale with new sand.\nIt took the fields and the edge of the road. It did not take the whole valley\nfloor.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The middle valley, before and after"
@@ -1937,7 +1937,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Past Bidur the bed drops just 2.6 m per km, and the river finally has\nroom.**\n\nThe channel still shows, but the valley takes it. The same box holds **154**\ndestroyed, against 329 and 703 upstream.\n\n**703, then 329, then 154**, in three identical boxes down one river.\n\n**On the map:** the yellow reach\n",
+          "markdown": "**Past Bidur the bed drops only 2.6 m per km. The river finally has room.**\n\nYou can still see the channel, but the valley is wide enough to hold it. The same\nbox holds **154** destroyed, against 329 and 703 upstream.\n\n**703, then 329, then 154**, in three boxes of the same size down one river.\n\n**On the map:** the yellow reach\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The open valley"
@@ -2036,7 +2036,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Below Bidur: the same six kilometres square, before the flood and after it.**\n\n![below Bidur, before and after](attachment:fig-before-after-yellow.png)\n\nHere the change is small, a wider pale channel and more sand. This is the same\nflood that erased the gorge, arriving somewhere with room to take it.\n",
+          "markdown": "**Below Bidur: the same six kilometre square, before the flood and after it.**\n\n![below Bidur, before and after](attachment:fig-before-after-yellow.png)\n\nHere the change is small: a wider, paler channel and more sand. This is the same\nflood that destroyed the gorge. Here the valley was wide enough to hold it.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The open valley, before and after"
@@ -2135,7 +2135,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**One thing explains all three, which is how steeply the riverbed falls.**\n\n![Bed gradient and bridge losses over the same three reaches](attachment:fig-gradient-vs-damage.png)\n\nA steep bed makes fast water, and fast water hits the bank with everything it is\ncarrying. Where the bed flattens the river spreads out instead of digging in.\n\n**15 of 16** bridges went in the\ngorge. **6 of 108** on the plain.\nAlong the whole river, NDRRMA count **41 road bridges\nwashed away** and 4 damaged.\n",
+          "markdown": "**One thing explains all three: how steeply the riverbed falls.**\n\n![Bed gradient and bridge losses over the same three reaches](attachment:fig-gradient-vs-damage.png)\n\nA steep bed makes fast water. Fast water hits the bank with everything it is\ncarrying. Where the bed is flat, the river spreads out instead of cutting in.\n\n**15 of 16** bridges were lost in the\ngorge. **6 of 108** on the plain.\nAlong the whole river, NDRRMA count **41 road bridges\nwashed away** and 4 damaged.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "Why the three are different"
@@ -2230,7 +2230,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**The wave took most of a working day to cross the country, and it was timed the\nwhole way.**\n\nGalchhi **10:28** \u00b7 Malekhu **11:50** \u00b7 Mugling **13:00** \u00b7 Devghat **15:20**, where it peaked about an hour later at some **5,850 m\u00b3/s**.\n\nThose four are 90, 115, 155 and 189 km down the channel from the\nslope.\n\n**57.4 million m\u00b3** of water in all, about\n20.0 million of that above what the\nriver was already carrying.\n\n**On the map:** four violet dots down the yellow reach, upstream to downstream\nin the order above, darkening as the day goes on\n",
+          "markdown": "**The wave took most of a working day to cross the country. People timed it the\nwhole way.**\n\nGalchhi **10:28** \u00b7 Malekhu **11:50** \u00b7 Mugling **13:00** \u00b7 Devghat **15:20**. At Devghat it peaked about an hour later, at some **5,850 m\u00b3/s**.\n\nThose four places are 90, 115, 155 and 189 km down the river from the\nslope.\n\n**57.4 million m\u00b3** of water passed in all. About\n20.0 million of that was on top of what the\nriver was already carrying.\n\n**On the map:** four violet dots down the yellow reach, upstream to downstream\nin the order above, getting darker as the day goes on\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "Where it got to, and when"
@@ -2325,7 +2325,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Nearly everything you have just seen destroyed was in the mountains. The\npeople who died were mostly on the plain.**\n\nDeaths by district, as NDRRMA record them:\n\n- **Chitwan 321**\n- **Nawalparasi East 216**, **West 170**\n- Nuwakot 95 \u00b7 Gorkha 65 \u00b7 Dhading 55 \u00b7 Tanahun 38\n- **Rasuwa 27**\n\n707 of 987 deaths are in the three districts\nfurthest from the mountain, where the flood was slowest and broke the least.\nRasuwa, where it tore the valley open, lost 27.\n\nHardly anyone lives in the gorge, and the plain is where the population is. The\nflood did its worst where the ground was steepest, and it killed where the\npeople were.\n",
+          "markdown": "**Nearly everything you have just seen destroyed was in the mountains. But most\nof the people who died were on the plain.**\n\nDeaths by district, as NDRRMA record them:\n\n- **Chitwan 321**\n- **Nawalparasi East 216**, **West 170**\n- Nuwakot 95 \u00b7 Gorkha 65 \u00b7 Dhading 55 \u00b7 Tanahun 38\n- **Rasuwa 27**\n\n707 of 987 deaths are in the three districts\nfurthest from the mountain. That is where the flood was slowest and broke the\nleast. Rasuwa, where it tore the valley open, lost 27.\n\nAlmost nobody lives in the gorge. The plain is where the people are. The flood\ndid the most damage where the ground was steepest. It killed where the people\nwere.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "Destroyed upstream, killed downstream"
@@ -2420,7 +2420,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**As of 2026-09-01, NDRRMA counted:**\n\n- **987 dead**, including remains recovered\n- **3,916 missing**, reported across 62 districts, 1,558 of them from Nuwakot, 865 from Rasuwa, 639 from hydropower sites, 583 foreign nationals\n- **279 injured**, 168 since discharged\n- **11,814 rescued**, 3,702 of them by air\n\nAnd for six days after the water, **3,702 households,\n14,461 people** in Gosaikunda and Amachhodingmo were cut off\ncompletely, with no road, no electricity and no telephone.\n\n**8 schools** were destroyed and\n8 damaged, out of 19\nchecked, between them teaching 6,901 pupils.\n\nThese are the figures published at 09:00 on 1 September, and they moved daily.\n[NDRRMA](https://bipadportal.gov.np/) publishes the current ones.\n\n**On the map:** schools inside the flood extent, red where destroyed\n",
+          "markdown": "**As of 2026-09-01, NDRRMA counted:**\n\n- **987 dead**, including remains recovered\n- **3,916 missing**, reported across 62 districts, 1,558 of them from Nuwakot, 865 from Rasuwa, 639 from hydropower sites, 583 foreign nationals\n- **279 injured**, 168 since discharged\n- **11,814 rescued**, 3,702 of them by air\n\nFor six days after the water, **3,702 households,\n14,461 people** in Gosaikunda and Amachhodingmo were\ncompletely cut off. No road, no electricity, no telephone.\n\n**8 schools** were destroyed and\n8 damaged, out of 19\nchecked. Together they taught 6,901 pupils.\n\nThese are the figures published at 09:00 on 1 September. They changed daily.\n[NDRRMA](https://bipadportal.gov.np/) publishes the current ones.\n\n**On the map:** schools inside the flood extent, red where destroyed\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The people"
@@ -2519,7 +2519,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Every count of this flood is provisional, and they do not agree with each\nother.**\n\nFour organisations counted destroyed buildings and got\n**2,813**, **5,048**, **1,641** and **677**.\nThey cover different ground by different methods, and they do not mean the same\nthing by destroyed. None of them is the number.\n\n![The same ground graded twice, two days apart](attachment:fig-reflight.png)\n\nCopernicus graded one area on 29 August, then looked again on 31 August. Nothing\non the ground changed in between. The second look found\n**653 more buildings\ndestroyed** than the first.\n\nAn early count is a floor. So is the map of it. The volunteer record stops dead\nat **km 78**, which is where one mapping project ended and the\nnext began rather than where the flood did, and the water ran on for another\n130 km past the last red dot.\n",
+          "markdown": "**No count of this flood is final, and the counts do not agree with each other.**\n\nFour organisations counted destroyed buildings. They got\n**2,813**, **5,048**, **1,641** and **677**.\nThey covered different ground, used different methods, and did not mean the same\nthing by destroyed. None of them is the number.\n\n![The same ground graded twice, two days apart](attachment:fig-reflight.png)\n\nCopernicus graded one area on 29 August, then looked again on 31 August. Nothing\non the ground changed in between. The second look found\n**653 more buildings\ndestroyed** than the first.\n\nEarly counts are too low. So are early maps. The volunteer record stops at\n**km 78**. That is where one mapping project ended and the next\none began. It is not where the flood ended. The water ran on for another 130 km\npast the last red dot.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "Four counts of the same thing"
@@ -2614,7 +2614,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**The debris blocked the channel in places, and those dams are still forming and\nstill failing.**\n\nUNOSAT spotted two barrier lakes on images from 28 August,\n**20 ha** and\n**12 ha**. NDRRMA report that some of these have\nsince drained, and that more can form while the banks are loose and the rain\nkeeps coming.\n\nThe valley below them has lost its road and most of its bridges.\n\n**On the map:** the teal shapes are the two lakes \u00b7 brown is where the mountain\nbroke away\n",
+          "markdown": "**The debris blocked the river in places. Those blockages are still forming, and\nstill breaking.**\n\nUNOSAT saw two barrier lakes on images from 28 August,\n**20 ha** and\n**12 ha**. NDRRMA report that some of these have\nsince drained. They also report that more can form while the banks are loose and\nthe rain keeps coming.\n\nThe valley below them has lost its road and most of its bridges.\n\n**On the map:** the teal shapes are the two lakes \u00b7 brown is where the mountain\nbroke away\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "What is still up there"
@@ -2713,7 +2713,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**The same two boxes, before the flood and after it.**\n\n![The two barrier lakes, before and after](attachment:fig-barrier-lakes.png)\n\nThe upper lake, 20 ha, sits 160 m below the edge\nof the scar, held in by what came off the mountain. The lower one,\n12 ha, is 4.6 km north-west, in a valley that has\ngone from forest to pale sand.\n\nPale ground and water look alike in colour, but not in near infrared, which\nwater absorbs. Inside the upper outline the water index goes from -0.01 before\nthe flood to +0.05 after, and the share of pixels above zero goes from 39 to\n99 per cent. Water would move it that way, across about that much of the\noutline, though it would usually move it further.\n\nThe outlines are UNOSAT's, from CARTOSAT-3 of 28 August.\n",
+          "markdown": "**The same two boxes, before the flood and after it.**\n\n![The two barrier lakes, before and after](attachment:fig-barrier-lakes.png)\n\nThe upper lake, 20 ha, sits 160 m below the edge\nof the scar. It is held in by what came off the mountain. The lower lake,\n12 ha, is 4.6 km north-west. Its valley has gone\nfrom forest to pale sand.\n\nIn normal colour, pale ground and water look alike. In near infrared they do not,\nbecause water absorbs it. Inside the upper outline, the water index goes from\n-0.01 before the flood to +0.05 after. The share of pixels above zero goes from\n39 to 99 per cent. Water would move it in that direction, across about that much\nof the outline. But it would usually move it further.\n\nThe outlines are UNOSAT's, from CARTOSAT-3 of 28 August.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The two lakes, before and after"
@@ -2812,7 +2812,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Every optical picture in this map has a hole in it. Radar sees through cloud.**\n\n![Backscatter change, 16 to 28 August](attachment:fig-radar-change.png)\n\nTwo Sentinel-1 passes of the same orbit, twelve days apart, subtracted. The\nangle is the same both times, so the terrain cancels and what is left is change\non the ground. Smooth surfaces reflect away from the radar and read dark, and\nstanding water, wet mud and fresh sand are all smoother than what was there\nbefore. A drop in backscatter says the surface got smoother, and stops there.\n\nAcross the whole box, **4 per cent** of pixels dropped more than 3 dB. Inside\nUNOSAT's scar, **29 per cent**. Inside the lower lake, **57 per cent**.\n\nThe upper lake is the exception, at 23 per cent, and its median barely moves.\nThe optical says that outline filled with something. The radar shows the same\nground barely changing, and this map will not decide between them.\n",
+          "markdown": "**Every camera picture in this map has a hole in it. Radar can see through cloud.**\n\n![Backscatter change, 16 to 28 August](attachment:fig-radar-change.png)\n\nThis is two Sentinel-1 radar passes of the same orbit, twelve days apart, one\nsubtracted from the other. The angle is the same both times. So the shape of the\nland cancels out, and what is left is change on the ground. Smooth surfaces\nbounce the radar away and come out dark. Standing water, wet mud and fresh sand\nare all smoother than what was there before. So a drop in the radar signal means\nthe surface got smoother. It does not say what made it smoother.\n\nAcross the whole box, **4 per cent** of pixels dropped by more than 3 dB. Inside\nUNOSAT's scar, **29 per cent**. Inside the lower lake, **57 per cent**.\n\nThe upper lake is the exception, at 23 per cent, and its middle value barely\nmoves. The camera pictures say that outline filled with something. The radar\nshows the same ground barely changing. This map will not decide between them.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "Radar, through the cloud"
@@ -2907,7 +2907,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Debris dumped across a river is not a dam anyone designed, and most of them do\nnot hold for long.**\n\nCosta and Schuster gathered 73 landslide dams whose lifetime was known.\n**27 per cent failed within a day** of forming, about half within ten days, and\n85 per cent within a year. The usual way is overtopping, where the lake fills,\nspills over the debris, and cuts its own outlet as it goes.\n\nTheir own caution goes with the figures. Those shares describe dams that failed,\nand plenty of landslide dams form without ever failing.\n\nPawan Bhattarai of Tribhuvan University, quoted by Al Jazeera on 28 August: \"The\ndanger is not just the lake itself, but the possibility of sudden dam failure.\"\n",
+          "markdown": "**A pile of debris across a river is not a dam anyone built, and most do not hold\nfor long.**\n\nCosta and Schuster collected 73 landslide dams where the lifetime was known.\n**27 per cent broke within a day** of forming. About half broke within ten days.\n85 per cent broke within a year. The usual way is overtopping: the lake fills,\nspills over the debris, and cuts its own way out.\n\nThey gave a warning with those figures. The shares only describe dams that broke.\nMany landslide dams form and never break.\n\nPawan Bhattarai of Tribhuvan University, quoted by Al Jazeera on 28 August: \"The\ndanger is not just the lake itself, but the possibility of sudden dam failure.\"\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "Why a barrier lake is dangerous"
@@ -3002,7 +3002,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Both lakes sit above the valley the flood has just been through.**\n\nChina's Ministry of Water Resources put one of them at **1.5 to 2 million m\u00b3**\non 27 August, and expected 3 million more within three days.\n\nWhat happened next is reported three ways. Rasuwa officials said on 28 August\nthat the lake had begun to overflow. The Kathmandu Post reported the same day\nthat the Army had told the district officer it had breached. The Stimson Center,\nreading Planet imagery, wrote that both lakes were still growing.\n\nStimson were more worried about the slope than about the lakes, and about\nsmaller reactivations if it rained hard in the days after. ICIMOD has asked for\nregional monitoring of cascading hazards, pointing out that this one started on\nthe Nepali side, outside the Chinese early-warning coverage.\n",
+          "markdown": "**Both lakes sit above the valley the flood has just been through.**\n\nOn 27 August, China's Ministry of Water Resources put one of them at\n**1.5 to 2 million m\u00b3**. It expected 3 million more within three days.\n\nWhat happened next is reported three different ways. Rasuwa officials said on\n28 August that the lake had started to overflow. The Kathmandu Post reported the\nsame day that the Army had told the district officer it had broken through. The\nStimson Center, reading Planet images, wrote that both lakes were still growing.\n\nStimson were more worried about the slope than about the lakes. They warned that\nsmaller slides could start again if it rained hard in the days after. ICIMOD has\nasked for monitoring across the region, because this one started on the Nepali\nside, outside the Chinese early-warning area.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "What could still happen"
@@ -3097,7 +3097,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Every number here is either measured from the data in this folder, or quoted\nfrom a named source with the hour it was published.**\n\n**The people and the timeline**\n\n[NDRRMA Situation Report #01](https://ndrrma.gov.np/mediafiles/rasuwa/Rasuwa_Flood_SitRep_Temp_ENG_01_01092026.pdf), 1 September 2026, 09:00.\nDeaths, missing, rescued, cut-off villages, bridges, schools, health posts, the\narrival times and the account of the cause all come from it. Those numbers moved\ndaily; [BIPAD](https://bipadportal.gov.np/) carries the current ones.\n\n**The damage mapping**\n\n- [Humanitarian OpenStreetMap Team](https://data.humdata.org/dataset/hot_flood_npl). Flood extent, destroyed features, bridges, schools. ODbL 1.0.\n- [Copernicus EMS, EMSR927](https://data.humdata.org/dataset/npl-flood-emsr927). Damage grading. \u00a9 2026 European Union.\n- [UNOSAT, FL20260826NPL](https://data.humdata.org/dataset/mudflow-rockflow-impact-assessment-in-rasuwa-nuwakot-districts-bagmati-province-nepal-as-o). Flood extent, detachment zone, barrier lakes.\n\n**The barrier lakes**\n\n- Costa, J. E. and Schuster, R. L., 1988, [The formation and failure of natural dams](https://pubs.usgs.gov/publication/70015581), Geological Society of America Bulletin, v. 100, p. 1054-1068. The 73-dam longevity figures, and the caution that they describe dams that failed.\n- [Al Jazeera, 28 August 2026](https://www.aljazeera.com/news/2026/8/28/is-nepal-facing-another-devastating-flood-from-a-new-lake). The Chinese volume estimate, the overflow report, and the quotation.\n- [The Kathmandu Post, 28 August 2026](https://kathmandupost.com/national/2026/08/28/barrier-lake-near-china-border-breaches-raising-fresh-flood-threat-in-nepal). The breach report.\n- [Stimson Center, 72 hours later](https://www.stimson.org/2026/a-cascading-disaster-on-the-china-nepal-border-what-to-know-about-the-august-2026-rasuwa-flood/). Both lakes growing, and the risk of the slope reactivating.\n- [ICIMOD](https://www.icimod.org/kyirong-rasuwa-flood-2026-nepal-china-border/). The cause, and the case for cross-border monitoring.\n\nThose five are reporting and literature rather than measurement, and they are\nquoted as such. Where they disagree the story says so rather than choosing.\n\nThe water index is NDWI, (green - near infrared) / (green + near infrared),\nsampled inside the UNOSAT outlines on the same Sentinel-2 composites the figure\ndraws. `METHODS.md` carries the numbers and what they do not settle.\n\n**The imagery**\n\nSentinel-2, 10 m, openly licensed. Every pass after the flood is 70-90% cloud,\nso each before and after is a median of the clear pixels from several passes.\nGround that never got a clear look is left as a gap.\n\nThe agencies worked from much sharper pictures, Pl\u00e9iades Neo and WorldView-3 at\n0.3 m, CARTOSAT-3 and SkySat, which are commercial and reserved. The outlines\ndrawn from them can be shared; the images cannot.\n\nThe radar is Sentinel-1 RTC gamma0 from the Microsoft Planetary Computer, one\nmatched pair on relative orbit 85. It is the only picture here with no cloud in\nit, and the only one that is a difference rather than a photograph.\n\n**The channel and the reaches**\n\nMeasured from terrain tiles for [an earlier map of this\nflood](https://github.com/arjxn-py/nepal-flood-26-aug), made in the week before\nany of the damage data existed.\n",
+          "markdown": "**Every number here is either measured from the data in this folder, or quoted\nfrom a named source, with the time it was published.**\n\n**The people and the timeline**\n\n[NDRRMA Situation Report #01](https://ndrrma.gov.np/mediafiles/rasuwa/Rasuwa_Flood_SitRep_Temp_ENG_01_01092026.pdf), 1 September 2026, 09:00.\nDeaths, missing, rescued, cut-off villages, bridges, schools, health posts, the\narrival times and the account of the cause all come from it. Those numbers\nchanged daily. [BIPAD](https://bipadportal.gov.np/) carries the current ones.\n\n**The damage mapping**\n\n- [Humanitarian OpenStreetMap Team](https://data.humdata.org/dataset/hot_flood_npl). Flood extent, destroyed features, bridges, schools. ODbL 1.0.\n- [Copernicus EMS, EMSR927](https://data.humdata.org/dataset/npl-flood-emsr927). Damage grading. \u00a9 2026 European Union.\n- [UNOSAT, FL20260826NPL](https://data.humdata.org/dataset/mudflow-rockflow-impact-assessment-in-rasuwa-nuwakot-districts-bagmati-province-nepal-as-o). Flood extent, detachment zone, barrier lakes.\n\n**The barrier lakes**\n\n- Costa, J. E. and Schuster, R. L., 1988, [The formation and failure of natural dams](https://pubs.usgs.gov/publication/70015581), Geological Society of America Bulletin, v. 100, p. 1054-1068. The 73-dam longevity figures, and the warning that they only describe dams that broke.\n- [Al Jazeera, 28 August 2026](https://www.aljazeera.com/news/2026/8/28/is-nepal-facing-another-devastating-flood-from-a-new-lake). The Chinese volume estimate, the overflow report, and the quotation.\n- [The Kathmandu Post, 28 August 2026](https://kathmandupost.com/national/2026/08/28/barrier-lake-near-china-border-breaches-raising-fresh-flood-threat-in-nepal). The breach report.\n- [Stimson Center, 72 hours later](https://www.stimson.org/2026/a-cascading-disaster-on-the-china-nepal-border-what-to-know-about-the-august-2026-rasuwa-flood/). Both lakes growing, and the risk of the slope moving again.\n- [ICIMOD](https://www.icimod.org/kyirong-rasuwa-flood-2026-nepal-china-border/). The cause, and the case for cross-border monitoring.\n\nThose five are news reports and published research, not measurements. They are\nquoted that way. Where they disagree, the story says so instead of picking one.\n\nThe water index is NDWI: (green - near infrared) / (green + near infrared). It\nwas sampled inside the UNOSAT outlines, on the same Sentinel-2 pictures the\nfigure draws. `METHODS.md` has the numbers, and what they do not settle.\n\n**The imagery**\n\nSentinel-2, 10 m, openly licensed. Every pass after the flood is 70-90% cloud.\nSo each before-and-after is built from the clear pixels of several passes. Ground\nthat never got a clear look is left as a gap.\n\nThe agencies worked from much sharper pictures: Pl\u00e9iades Neo and WorldView-3 at\n0.3 m, plus CARTOSAT-3 and SkySat. Those are commercial and restricted. The\noutlines drawn from them can be shared. The images cannot.\n\nThe radar is Sentinel-1 RTC gamma0 from the Microsoft Planetary Computer, one\nmatched pair on relative orbit 85. It is the only picture here with no cloud in\nit. It is also the only one that shows a difference rather than a photograph.\n\n**The channel and the reaches**\n\nMeasured from terrain tiles for [an earlier map of this\nflood](https://github.com/arjxn-py/nepal-flood-26-aug). That map was made in the\nweek before any of the damage data existed.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "Sources"
@@ -3189,10 +3189,10 @@
   "options": {
     "bearing": 0.0,
     "extent": [
-      9491206.056892972,
-      3274453.1626012013,
-      9535521.30969347,
-      3299246.532795468
+      9491510.181176897,
+      3275293.124909185,
+      9535217.185409546,
+      3298406.5704874843
     ],
     "latitude": 28.300000000273414,
     "longitude": 85.46000000089887,
