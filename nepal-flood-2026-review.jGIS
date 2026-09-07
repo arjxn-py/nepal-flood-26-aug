@@ -1165,7 +1165,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**At 08:40 in the morning on 26 August 2026, a square kilometre of mountain broke\naway.**\n\nIt fell from a slope above the Lhende Khola. That is twenty kilometres inside\nNepal from the China border. What fell was rock, ice, and the loose ground a\nshrinking glacier leaves behind.\n\nSeismometers measured it at over magnitude 5. For the first few hours of the day\nit was reported as an earthquake. It was not. It was the mountain hitting the\nvalley floor.\n\nOn the way down it picked up water and mud. By then it was a flood. It ran\n**210 km** down four rivers in one day.\nThis map follows it, from the slope to the plain.\n\n*Scroll to begin.*\n",
+          "markdown": "**At 08:40 in the morning on 26 August 2026, a square kilometre of mountain broke\naway.**\n\nIt fell from a slope above the Lhende Khola. That is twenty kilometres inside\nNepal from the China border. What fell was rock, ice, and the loose ground a\nshrinking glacier leaves behind.\n\nSeismometers measured it at over magnitude 5. For the first few hours of the day\nit was reported as an earthquake. It was not. It was the mountain hitting the\nvalley floor.\n\nOn the way down it picked up water and mud. By then it was a flood. It ran\n**210 km** down four rivers in one day.\n\nIt broke the most in the mountains, where almost nobody lives. It killed the\nmost on the plain, far downstream.\n\nThis map follows it, from the slope to the plain.\n\n*Scroll to begin.*\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "08:40, and a mountain moved"
@@ -1549,7 +1549,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Here the riverbed drops 42.5 m every kilometre, and the valley walls are close\ntogether.**\n\nThe river used to be a thin line through forest. It is now bare rock from one\nwall to the other. In this 6 by 6 km box, **703 features** are marked destroyed.\nThat counts buildings, roads and bridges together. Three health posts were lost\ntoo: at Timure, Rasuwagadhi and Syafrubesi.\n\nOn ground this steep, the water hits instead of rising.\n\n**On the map:** the red reach \u00b7 dots are destroyed \u00b7 bridges dark red where lost\n",
+          "markdown": "**Here the riverbed drops 42.5 m every kilometre, and the valley walls are close\ntogether.**\n\nThe river used to be a thin line through forest. It is now bare rock from one\nwall to the other. In this 6 by 6 km box, **703 features** are marked destroyed.\nThat counts buildings, roads and bridges together. Three health posts were lost\ntoo: at Timure, Rasuwagadhi and Syafrubesi.\n\nOn ground this steep, the water hits instead of rising.\n\n**On the map:** bridges, dark red where lost\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The steep gorge"
@@ -1743,7 +1743,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Six kilometres on, the bed is flatter, at 24.3 m per km. The valley is opening\nout.**\n\nA box of the same size holds **329** destroyed. That is less than half the gorge.\nThe ground is gentler here, so more people build on it. Downstream in Nuwakot\nalone, **1,267 houses** were fully damaged and\n**1,253** partly damaged.\n\n**On the map:** the orange reach \u00b7 the blue fill is the water line that was\nobserved\n",
+          "markdown": "**Six kilometres on, the bed is flatter, at 24.3 m per km. The valley is opening\nout.**\n\nA box of the same size holds **329** destroyed. That is less than half the gorge.\nThe ground is gentler here, so more people build on it. Downstream in Nuwakot\nalone, **1,267 houses** were fully damaged and\n**1,253** partly damaged.\n\n**On the map:** the blue fill is the water line that was observed\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The middle valley"
@@ -1937,7 +1937,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**Past Bidur the bed drops only 2.6 m per km. The river finally has room.**\n\nYou can still see the channel, but the valley is wide enough to hold it. The same\nbox holds **154** destroyed, against 329 and 703 upstream.\n\n**703, then 329, then 154**, in three boxes of the same size down one river.\n\n**On the map:** the yellow reach\n",
+          "markdown": "**Past Bidur the bed drops only 2.6 m per km. The river finally has room.**\n\nYou can still see the channel, but the valley is wide enough to hold it. The same\nbox holds **154** destroyed, against 329 and 703 upstream.\n\n**703, then 329, then 154**, in three boxes of the same size down one river.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The open valley"
@@ -3189,17 +3189,17 @@
   "options": {
     "bearing": 0.0,
     "extent": [
-      9491510.181176897,
-      3275293.124909185,
-      9535217.185409546,
-      3298406.5704874843
+      9514624.005008124,
+      3282569.999638272,
+      9525550.756066285,
+      3288348.361032847
     ],
-    "latitude": 28.300000000273414,
-    "longitude": 85.46000000089887,
+    "latitude": 28.28900000027336,
+    "longitude": 85.52040000089949,
     "pitch": 0.0,
     "projection": "EPSG:3857",
     "useExtent": false,
-    "zoom": 12.400000000000002
+    "zoom": 14.4
   },
   "presets": {},
   "schemaVersion": "0.6.0",
@@ -3388,7 +3388,7 @@
         "2c7f4b20-0000-4000-8001-000000000020"
       ],
       "storyType": "Vertical Scroll",
-      "title": "The Bhote Koshi flood, 26 August 2026"
+      "title": "Nepal, 26 August 2026: destroyed in the mountains, killed on the plain"
     }
   },
   "viewState": {}
