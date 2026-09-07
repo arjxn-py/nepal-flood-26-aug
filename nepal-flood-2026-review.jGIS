@@ -1164,7 +1164,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**What the flood of 26 August 2026 did, and what is still not known.**\n\nIt started with a mountain. At **08:40** that morning about a square kilometre\nbroke off a slope near the China border. For a few hours it was reported as an\nearthquake. It was not. It was the mountain hitting the valley floor.\n\nIt picked up water and mud on the way down, and ran **210 km** down four rivers\nin one day.\n\n**What is below**\n\n- Where it started\n- Three stretches of river, before and after, and why the damage fell where it did\n- Who died, and where: the damage is in the mountains, the dead are on the plain\n- Two new lakes that are still up there\n- Why no count of this flood is final\n\n*Scroll to begin.*\n",
+          "markdown": "**What the flood of 26 August 2026 did, and what is still not known.**\n\nIt started with a mountain. At **08:40** that morning about a square kilometre\nbroke off a slope near the China border. For a few hours it was reported as an\nearthquake. It was not. It was the mountain hitting the valley floor.\n\nIt picked up water and mud on the way down, and ran **210 km** down four rivers\nin one day.\n\n**What is below**\n\n- Where it started, and what the satellites could not see\n- Three stretches of river, before and after, and why the damage fell where it did\n- Who died, and where: the damage is in the mountains, the dead are on the plain\n- Two new lakes that are still up there\n- Why no count of this flood is final\n\n*Scroll to begin.*\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "What this map is about"
@@ -2419,7 +2419,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**As of 7 September, the Kathmandu Post reported NDRRMA's count as:**\n\n- **1,355 dead**\n- **4,996 missing** \u2014 2,340 from Nuwakot, 1,967 from Rasuwa, and 589 foreign nationals\n- **13,396 rescued**, and **6,672** treated for injuries\n\nThe district list on the last card came to 1,342. That was the Nepal Police,\ncounting two days earlier. Different bodies count on different days.\n\nFor six days after the water, **3,702 households,\n14,461 people** in Gosaikunda and Amachhodingmo were\ncompletely cut off. No road, no electricity, no telephone.\n**8 schools** were destroyed and 8 damaged,\nout of 19 checked. Together they taught\n6,901 pupils. Those last two figures are from\n1 September and have not been updated since.\n\n[NDRRMA](https://bipadportal.gov.np/) publishes the current ones.\n\n**On the map:** schools inside the flood extent, red where destroyed\n",
+          "markdown": "**As of 7 September, the Kathmandu Post reported NDRRMA's count as:**\n\n- **1,355 dead**\n- **4,996 missing** \u2014 2,340 from Nuwakot, 1,967 from Rasuwa, 589 foreign nationals\n- **13,396 rescued**, and **6,672** treated for injuries\n\nFor six days after the water, **3,702 households,\n14,461 people** in Gosaikunda and Amachhodingmo were\ncompletely cut off. No road, no electricity, no telephone.\n\n**8 schools** were destroyed and 8 damaged,\nout of 19 checked. Together they taught\n6,901 pupils.\n\nThose last two figures are from 1 September. The district list on the card before\ncame to 1,342, counted by the Nepal Police two days earlier. Different bodies\ncount on different days, and [NDRRMA](https://bipadportal.gov.np/) publishes the\ncurrent ones.\n\n**On the map:** schools inside the flood extent, red where destroyed\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The people"
@@ -3093,17 +3093,17 @@
   "options": {
     "bearing": 0.0,
     "extent": [
-      9514624.005008124,
-      3282569.999638272,
-      9525550.756066285,
-      3288348.361032847
+      9491510.181176897,
+      3275293.124909185,
+      9535217.185409546,
+      3298406.5704874843
     ],
-    "latitude": 28.28900000027336,
-    "longitude": 85.52040000089949,
+    "latitude": 28.300000000273414,
+    "longitude": 85.46000000089887,
     "pitch": 0.0,
     "projection": "EPSG:3857",
     "useExtent": false,
-    "zoom": 14.4
+    "zoom": 12.400000000000002
   },
   "presets": {},
   "schemaVersion": "0.6.0",
@@ -3291,7 +3291,7 @@
         "2c7f4b20-0000-4000-8001-000000000020"
       ],
       "storyType": "Vertical Scroll",
-      "title": "Nepal, 26 August 2026: destroyed in the mountains, killed on the plain"
+      "title": "Nepal, 26 August 2026: what the flood did, and what is still not known"
     }
   },
   "viewState": {}
