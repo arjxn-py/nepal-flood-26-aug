@@ -1157,17 +1157,17 @@
       "visible": false
     },
     "2c7f4b20-0000-4000-8001-000000000000": {
-      "name": "08:40, and a mountain moved",
+      "name": "What this map is about",
       "parameters": {
         "content": {
           "attachments": {},
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**At 08:40 in the morning on 26 August 2026, a square kilometre of mountain broke\naway.**\n\nIt fell from a slope above the Lhende Khola. That is twenty kilometres inside\nNepal from the China border. What fell was rock, ice, and the loose ground a\nshrinking glacier leaves behind.\n\nSeismometers measured it at over magnitude 5. For the first few hours of the day\nit was reported as an earthquake. It was not. It was the mountain hitting the\nvalley floor.\n\nOn the way down it picked up water and mud. By then it was a flood. It ran\n**210 km** down four rivers in one day.\n\nMost of the damage is in the mountains. Most of the dead are on the plain. And\nnobody yet agrees how many there are.\n\nThis map follows it, from the slope to the plain.\n\n*Scroll to begin.*\n",
+          "markdown": "**What the flood of 26 August 2026 did, and what is still not known.**\n\nIt started with a mountain. At **08:40** that morning about a square kilometre\nbroke off a slope near the China border. For a few hours it was reported as an\nearthquake. It was not. It was the mountain hitting the valley floor.\n\nIt picked up water and mud on the way down, and ran **210 km** down four rivers\nin one day.\n\n**What is below**\n\n- Where it started\n- Three stretches of river, before and after, and why the damage fell where it did\n- Who died, and where: the damage is in the mountains, the dead are on the plain\n- Two new lakes that are still up there\n- Why no count of this flood is final\n\n*Scroll to begin.*\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
-          "title": "08:40, and a mountain moved"
+          "title": "What this map is about"
         },
         "extent": [
           9498532.138560558,
@@ -1261,7 +1261,7 @@
           "imageCaption": "",
           "markdown": "**196 hectares of mountainside are gone.**\n\nThe scar was mapped from Landsat 9 images taken on the day it happened. NDRRMA\nput the mass that broke off at about a square kilometre of rock and old glacier\ndebris.\n\nIt sits above the Lhende Khola. That is a small river that joins the Bhote Koshi\nten kilometres below. Nothing up here could be damaged. Everything else in this\nmap happened downhill of it.\n\n**On the map:** the brown outline is where it broke away\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "40%",
           "title": "The ground it came off"
         },
         "extent": [
@@ -1360,7 +1360,7 @@
           "imageCaption": "",
           "markdown": "**The same 4.5 km square, before the flood and after it.**\n\n![Where it came off, before and after](attachment:fig-detachment-before-after.png)\n\nBefore the flood, the brown outline held dark rock and a tongue of ice. In the\nsecond picture the ice is gone from the part the satellite could see. The ground\nunder it is grey and brown.\n\nThis is the highest and cloudiest box in the map. In the second picture, 38 per\ncent of the ground never got a clear look. In the first, only 1 per cent.\n\nThe teal outline on the left is one of the two lakes this story ends on.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "52%",
           "title": "The ground it came off, before and after"
         },
         "extent": [
@@ -1455,7 +1455,7 @@
           "imageCaption": "",
           "markdown": "**Ten minutes later, the river gauge at Syafrubesi stopped sending.**\n\nIts last reading was **1.62 m**. The gauge sits twenty kilometres below the\nslope. It never sent again.\n\nBy **09:15** the Department of Hydrology and Meteorology had confirmed a flood\nwave. It warned people down the Trishuli. **679,295 text\nmessages** went out to phones along the river.\n\nThe warning reached everyone below the gauge. The people above it already had\nthe water.\n\n**On the map:** red dots are what was later marked destroyed\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "40%",
           "title": "Ten minutes later, the gauge stopped"
         },
         "extent": [
@@ -1550,7 +1550,7 @@
           "imageCaption": "",
           "markdown": "**Here the riverbed drops 42.5 m every kilometre, and the valley walls are close\ntogether.**\n\nThe river used to be a thin line through forest. It is now bare rock from one\nwall to the other. In this 6 by 6 km box, **715 features** are marked destroyed.\nThat counts buildings, roads and bridges together. Three health posts were lost\ntoo: at Timure, Rasuwagadhi and Syafrubesi.\n\nOn ground this steep, the water hits instead of rising.\n\n**On the map:** bridges, dark red where lost\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "40%",
           "title": "The steep gorge"
         },
         "extent": [
@@ -1649,7 +1649,7 @@
           "imageCaption": "",
           "markdown": "**Timure and Rasuwagadhi: the same six kilometre square, before the flood and\nafter it.**\n\n![Timure and Rasuwagadhi, before and after](attachment:fig-before-after-red.png)\n\nA thin line of water through forest became bare rock and gravel, from one valley\nwall to the other. The village went with the bank it stood on.\n\nGrey means no satellite got a clear look in the days after. Every pass was 70 to\n90 per cent cloud. So each picture is built from the clear pixels of several\npasses. That is true of every picture after this one too.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "52%",
           "title": "The steep gorge, before and after"
         },
         "extent": [
@@ -1744,7 +1744,7 @@
           "imageCaption": "",
           "markdown": "**Six kilometres on, the bed is flatter, at 24.3 m per km. The valley is opening\nout.**\n\nA box of the same size holds **342** destroyed. That is less than half the gorge.\nThe ground is gentler here, so more people build on it. Downstream in Nuwakot\nalone, **1,267 houses** were fully damaged and\n**1,253** partly damaged.\n\n**On the map:** the blue fill is the water line that was observed\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "40%",
           "title": "The middle valley"
         },
         "extent": [
@@ -1843,7 +1843,7 @@
           "imageCaption": "",
           "markdown": "**Syabru Besi: the same six kilometre square, before the flood and after it.**\n\n![Syabru Besi, before and after](attachment:fig-before-after-orange.png)\n\nThe river was already wide here. It came out wider still, and pale with new sand.\nIt took the fields and the edge of the road. It did not take the whole valley\nfloor.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "52%",
           "title": "The middle valley, before and after"
         },
         "extent": [
@@ -1938,7 +1938,7 @@
           "imageCaption": "",
           "markdown": "**Past Bidur the bed drops only 2.6 m per km. The river finally has room.**\n\nYou can still see the channel, but the valley is wide enough to hold it. The same\nbox holds **154** destroyed, against 342 and 715 upstream.\n\n**715, then 342, then 154**, in three boxes of the same size down one river.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "40%",
           "title": "The open valley"
         },
         "extent": [
@@ -2037,7 +2037,7 @@
           "imageCaption": "",
           "markdown": "**Below Bidur: the same six kilometre square, before the flood and after it.**\n\n![below Bidur, before and after](attachment:fig-before-after-yellow.png)\n\nHere the change is small: a wider, paler channel and more sand. This is the same\nflood that destroyed the gorge. Here the valley was wide enough to hold it.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "52%",
           "title": "The open valley, before and after"
         },
         "extent": [
@@ -2136,7 +2136,7 @@
           "imageCaption": "",
           "markdown": "**One thing explains all three: how steeply the riverbed falls.**\n\n![Bed gradient and bridge losses over the same three reaches](attachment:fig-gradient-vs-damage.png)\n\nA steep bed makes fast water. Fast water hits the bank with everything it is\ncarrying. Where the bed is flat, the river spreads out instead of cutting in.\n\n**16 of 16** bridges were lost in the\ngorge. **6 of 108** on the plain. In its report of\n1 September, NDRRMA counted **41 road bridges washed\naway** and 4 damaged along the whole river.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "58%",
           "title": "Why the three are different"
         },
         "extent": [
@@ -2231,7 +2231,7 @@
           "imageCaption": "",
           "markdown": "**The wave took most of a working day to cross the country. People timed it the\nwhole way.**\n\nGalchhi **10:28** \u00b7 Malekhu **11:50** \u00b7 Mugling **13:00** \u00b7 Devghat **15:20**. At Devghat it peaked about an hour later, at some **5,850 m\u00b3/s**.\n\nThose four places are 90, 115, 155 and 189 km down the river from the\nslope.\n\n**57.4 million m\u00b3** of water passed in all. About\n20.0 million of that was on top of what the\nriver was already carrying.\n\n**On the map:** four violet dots down the yellow reach, upstream to downstream\nin the order above, getting darker as the day goes on\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "40%",
           "title": "Where it got to, and when"
         },
         "extent": [
@@ -2520,7 +2520,7 @@
           "imageCaption": "",
           "markdown": "**No count of this flood is final, and the counts do not agree with each other.**\n\nFour organisations counted destroyed buildings. They got\n**2,813**, **5,048**, **1,641** and **677**.\nThey covered different ground, used different methods, and did not mean the same\nthing by destroyed. None of them is the number.\n\n![The same ground graded twice, two days apart](attachment:fig-reflight.png)\n\nCopernicus graded one area on 29 August, then looked again on 31 August. Nothing\non the ground changed in between. The second look found\n**653 more buildings\ndestroyed** than the first.\n\nIt has since re-graded a second area and found\n**105 more**. Both times the number went up, and only\nup.\n\nThe dead are counted the same way. Between 1 and 5 September, Chitwan's toll\ngrew by about a tenth, from **321 to 360**. Rasuwa's grew\nalmost six times, from **27 to 160**. Those two counts\ncome from different bodies, so the change is worth more than the difference.\nBut the mountains are the hard place to count.\n\nEarly counts are too low. So are early maps. The volunteer record stops at\n**km 78**. That is where one mapping project ended and the next\none began. It is not where the flood ended. The water ran on for another 130 km\npast the last red dot.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "52%",
           "title": "Four counts of the same thing"
         },
         "extent": [
@@ -2613,9 +2613,9 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**The debris blocked the river in places. Those blockages are still forming, and\nstill breaking.**\n\nUNOSAT saw two barrier lakes on images from 28 August,\n**20 ha** and\n**12 ha**. NDRRMA report that some of these have\nsince drained. They also report that more can form while the banks are loose and\nthe rain keeps coming.\n\nA pile of debris across a river is not a dam anyone built. Costa and Schuster\ncollected 73 landslide dams where the lifetime was known.\n**27 per cent broke within a day** of forming, and about half within ten days.\nTheir warning goes with the figures: those shares only describe dams that broke,\nand many landslide dams never do.\n\nPawan Bhattarai of Tribhuvan University, quoted by Al Jazeera on 28 August: \"The\ndanger is not just the lake itself, but the possibility of sudden dam failure.\"\n\nThe valley below them has lost its road and most of its bridges.\n\n**On the map:** the teal shapes are the two lakes \u00b7 brown is where the mountain\nbroke away\n",
+          "markdown": "**The debris blocked the river in places. Those blockages are still forming, and\nstill breaking.**\n\nUNOSAT saw two barrier lakes on images from 28 August,\n**20 ha** and\n**12 ha**. NDRRMA report that some have since\ndrained, and that more can form while the banks are loose and the rain keeps\ncoming.\n\nA pile of debris across a river is not a dam anyone built. Of 73 landslide dams\nwhose lifetime was known, Costa and Schuster found\n**27 per cent broke within a day**, and about half within ten days. Those shares\nonly describe dams that broke. Many never do.\n\nPawan Bhattarai of Tribhuvan University, quoted by Al Jazeera on 28 August: \"The\ndanger is not just the lake itself, but the possibility of sudden dam failure.\"\n\nThe valley below has lost its road and most of its bridges.\n\n**On the map:** the teal shapes are the two lakes \u00b7 brown is where the mountain\nbroke away\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "45%",
           "title": "What is still up there"
         },
         "extent": [
@@ -2908,7 +2908,7 @@
           "imageCaption": "",
           "markdown": "**Both lakes sit above the valley the flood has just been through.**\n\nOn 27 August, China's Ministry of Water Resources put one of them at\n**1.5 to 2 million m\u00b3**. It expected 3 million more within three days.\n\nWhat happened next is reported three different ways. Rasuwa officials said on\n28 August that the lake had started to overflow. The Kathmandu Post reported the\nsame day that the Army had told the district officer it had broken through. The\nStimson Center, reading Planet images, wrote that both lakes were still growing.\n\nStimson were more worried about the slope than about the lakes. They warned that\nsmaller slides could start again if it rained hard in the days after. ICIMOD has\nasked for monitoring across the region, because this one started on the Nepali\nside, outside the Chinese early-warning area.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%",
+          "panelWidth": "45%",
           "title": "What could still happen"
         },
         "extent": [
@@ -3093,17 +3093,17 @@
   "options": {
     "bearing": 0.0,
     "extent": [
-      9491510.181176897,
-      3275293.124909185,
-      9535217.185409546,
-      3298406.5704874843
+      9514624.005008124,
+      3282569.999638272,
+      9525550.756066285,
+      3288348.361032847
     ],
-    "latitude": 28.300000000273414,
-    "longitude": 85.46000000089887,
+    "latitude": 28.28900000027336,
+    "longitude": 85.52040000089949,
     "pitch": 0.0,
     "projection": "EPSG:3857",
     "useExtent": false,
-    "zoom": 12.400000000000002
+    "zoom": 14.4
   },
   "presets": {},
   "schemaVersion": "0.6.0",
