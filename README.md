@@ -60,7 +60,7 @@ it.
 
 Two results, both in `comparison.json`:
 
-- **Bed gradient predicted damage well.** Bridges destroyed run 15 of 16 in the
+- **Bed gradient predicted damage well.** Bridges destroyed run 16 of 16 in the
   steep gorge, 22 of 47 in the middle valley and 6 of 108 on the open valley,
   against measured bed gradients of 42.5, 24.3 and 2.6 m per km.
 - **Distance from the channel predicted it badly.** Observed damage sits a

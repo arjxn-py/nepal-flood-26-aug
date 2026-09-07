@@ -203,7 +203,7 @@ the generating code is not distributed, so this section stands in for it.
 ### Where each layer comes from
 
 Every file but one is a published product, fetched from the Humanitarian Data
-Exchange on **2026-09-05** and reprojected to EPSG:4326, with the vertices of the
+Exchange on **2026-09-08** and reprojected to EPSG:4326, with the vertices of the
 polygon layers thinned to a **5 m** tolerance for drawing. Areas quoted in the
 attributes and in `comparison.json` were measured on the unthinned geometry in
 EPSG:32645. The exception is `timed-places`, which is transcribed from a

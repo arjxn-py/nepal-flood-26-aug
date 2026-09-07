@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05",
+ "generated": "2026-09-08",
  "channel_km": 209.9,
  "extent_km2": {
   "hot_27aug": 31.7,
@@ -24,20 +24,20 @@
   }
  },
  "destroyed_features": {
-  "total": 2093,
+  "total": 2121,
   "by_band": {
-   "upper": 722,
-   "middle": 846,
+   "upper": 737,
+   "middle": 859,
    "lower": 525
   },
   "per_km": {
-   "upper": 36.1,
-   "middle": 21.2,
+   "upper": 36.8,
+   "middle": 21.5,
    "lower": 3.5
   },
   "offset_m": {
-   "median": 108.5,
-   "p90": 185.94,
+   "median": 108.2,
+   "p90": 185.7,
    "max": 940.1
   },
   "max_km": 78.02
@@ -45,7 +45,7 @@
  "bridges": {
   "upper": {
    "total": 16,
-   "destroyed": 15
+   "destroyed": 16
   },
   "middle": {
    "total": 47,
@@ -78,12 +78,19 @@
    "monitoring1_graded": 3058,
    "initial_destroyed": 1826,
    "monitoring1_destroyed": 2479,
-   "note": "Same area, same method, two days apart."
+   "note": "Same ground, same method, graded twice."
+  },
+  "aoi05_reflight": {
+   "initial_graded": 609,
+   "monitoring1_graded": 763,
+   "initial_destroyed": 292,
+   "monitoring1_destroyed": 397,
+   "note": "Same ground, same method, graded twice."
   }
  },
  "not_analysed_km2": {
   "AOI03": 2.62,
-  "AOI05": 5.21
+  "AOI05": 7.08
  },
  "mapping_boundary": {
   "destroyed_features_end_at_km": 78.02,
