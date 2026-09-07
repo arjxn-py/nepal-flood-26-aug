@@ -18,7 +18,6 @@
     "2c7f4b20-0000-4000-8000-00000000000f",
     "2c7f4b20-0000-4000-8001-000000000020",
     "2c7f4b20-0000-4000-8001-000000000019",
-    "2c7f4b20-0000-4000-8001-000000000018",
     "2c7f4b20-0000-4000-8001-000000000017",
     "2c7f4b20-0000-4000-8001-000000000016",
     "2c7f4b20-0000-4000-8001-000000000015",
@@ -1165,7 +1164,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**At 08:40 in the morning on 26 August 2026, a square kilometre of mountain broke\naway.**\n\nIt fell from a slope above the Lhende Khola. That is twenty kilometres inside\nNepal from the China border. What fell was rock, ice, and the loose ground a\nshrinking glacier leaves behind.\n\nSeismometers measured it at over magnitude 5. For the first few hours of the day\nit was reported as an earthquake. It was not. It was the mountain hitting the\nvalley floor.\n\nOn the way down it picked up water and mud. By then it was a flood. It ran\n**210 km** down four rivers in one day.\n\nIt broke the most in the mountains, where almost nobody lives. It killed the\nmost on the plain, far downstream.\n\nThis map follows it, from the slope to the plain.\n\n*Scroll to begin.*\n",
+          "markdown": "**At 08:40 in the morning on 26 August 2026, a square kilometre of mountain broke\naway.**\n\nIt fell from a slope above the Lhende Khola. That is twenty kilometres inside\nNepal from the China border. What fell was rock, ice, and the loose ground a\nshrinking glacier leaves behind.\n\nSeismometers measured it at over magnitude 5. For the first few hours of the day\nit was reported as an earthquake. It was not. It was the mountain hitting the\nvalley floor.\n\nOn the way down it picked up water and mud. By then it was a flood. It ran\n**210 km** down four rivers in one day.\n\nMost of the damage is in the mountains. Most of the dead are on the plain. And\nnobody yet agrees how many there are.\n\nThis map follows it, from the slope to the plain.\n\n*Scroll to begin.*\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "08:40, and a mountain moved"
@@ -2420,7 +2419,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**These numbers are still moving.**\n\nOn 7 September the Kathmandu Post reported NDRRMA's count as\n**1,355 dead** and **4,996 missing**.\n2,340 of the missing are from Nuwakot and 1,967 from Rasuwa.\n589 are foreign nationals. **6,672 people** had been\ntreated for injuries and **13,396** rescued.\n3,500 were still in 39 holding centres.\n\nA week before, on 1 September, the same count was 987 dead and\n3,916 missing. That report is the last one NDRRMA has\npublished in English.\n\nTwo figures from it that have not been updated since. For six days after the\nwater, **3,702 households, 14,461 people** in\nGosaikunda and Amachhodingmo were completely cut off. No road, no electricity,\nno telephone. And **8 schools** were destroyed and\n8 damaged, out of 19 checked.\nTogether they taught 6,901 pupils.\n\n[NDRRMA](https://bipadportal.gov.np/) publishes the current figures.\n\n**On the map:** schools inside the flood extent, red where destroyed\n",
+          "markdown": "**As of 7 September, the Kathmandu Post reported NDRRMA's count as:**\n\n- **1,355 dead**\n- **4,996 missing** \u2014 2,340 from Nuwakot, 1,967 from Rasuwa, and 589 foreign nationals\n- **13,396 rescued**, and **6,672** treated for injuries\n\nThe district list on the last card came to 1,342. That was the Nepal Police,\ncounting two days earlier. Different bodies count on different days.\n\nFor six days after the water, **3,702 households,\n14,461 people** in Gosaikunda and Amachhodingmo were\ncompletely cut off. No road, no electricity, no telephone.\n**8 schools** were destroyed and 8 damaged,\nout of 19 checked. Together they taught\n6,901 pupils. Those last two figures are from\n1 September and have not been updated since.\n\n[NDRRMA](https://bipadportal.gov.np/) publishes the current ones.\n\n**On the map:** schools inside the flood extent, red where destroyed\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "The people"
@@ -2519,7 +2518,7 @@
           "contentMode": "markdown",
           "image": "",
           "imageCaption": "",
-          "markdown": "**No count of this flood is final, and the counts do not agree with each other.**\n\nFour organisations counted destroyed buildings. They got\n**2,813**, **5,048**, **1,641** and **677**.\nThey covered different ground, used different methods, and did not mean the same\nthing by destroyed. None of them is the number.\n\n![The same ground graded twice, two days apart](attachment:fig-reflight.png)\n\nCopernicus graded one area on 29 August, then looked again on 31 August. Nothing\non the ground changed in between. The second look found\n**653 more buildings\ndestroyed** than the first.\n\nIt has since re-graded a second area and found\n**105 more**. Both times the number went up, and only\nup.\n\nThe dead are counted the same way. Between 1 and 5 September, Chitwan's toll\ngrew by about a tenth, from **321 to 360**. Rasuwa's grew\nalmost six times, from **27 to 160**. Those two counts\ncome from different bodies, so the change is worth more than the difference. But\nit points where the map points. The mountains are the hard place to count.\n\nEarly counts are too low. So are early maps. The volunteer record stops at\n**km 78**. That is where one mapping project ended and the next\none began. It is not where the flood ended. The water ran on for another 130 km\npast the last red dot.\n",
+          "markdown": "**No count of this flood is final, and the counts do not agree with each other.**\n\nFour organisations counted destroyed buildings. They got\n**2,813**, **5,048**, **1,641** and **677**.\nThey covered different ground, used different methods, and did not mean the same\nthing by destroyed. None of them is the number.\n\n![The same ground graded twice, two days apart](attachment:fig-reflight.png)\n\nCopernicus graded one area on 29 August, then looked again on 31 August. Nothing\non the ground changed in between. The second look found\n**653 more buildings\ndestroyed** than the first.\n\nIt has since re-graded a second area and found\n**105 more**. Both times the number went up, and only\nup.\n\nThe dead are counted the same way. Between 1 and 5 September, Chitwan's toll\ngrew by about a tenth, from **321 to 360**. Rasuwa's grew\nalmost six times, from **27 to 160**. Those two counts\ncome from different bodies, so the change is worth more than the difference.\nBut the mountains are the hard place to count.\n\nEarly counts are too low. So are early maps. The volunteer record stops at\n**km 78**. That is where one mapping project ended and the next\none began. It is not where the flood ended. The water ran on for another 130 km\npast the last red dot.\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "Four counts of the same thing"
@@ -2614,7 +2613,7 @@
           "contentMode": "map",
           "image": "",
           "imageCaption": "",
-          "markdown": "**The debris blocked the river in places. Those blockages are still forming, and\nstill breaking.**\n\nUNOSAT saw two barrier lakes on images from 28 August,\n**20 ha** and\n**12 ha**. NDRRMA report that some of these have\nsince drained. They also report that more can form while the banks are loose and\nthe rain keeps coming.\n\nThe valley below them has lost its road and most of its bridges.\n\n**On the map:** the teal shapes are the two lakes \u00b7 brown is where the mountain\nbroke away\n",
+          "markdown": "**The debris blocked the river in places. Those blockages are still forming, and\nstill breaking.**\n\nUNOSAT saw two barrier lakes on images from 28 August,\n**20 ha** and\n**12 ha**. NDRRMA report that some of these have\nsince drained. They also report that more can form while the banks are loose and\nthe rain keeps coming.\n\nA pile of debris across a river is not a dam anyone built. Costa and Schuster\ncollected 73 landslide dams where the lifetime was known.\n**27 per cent broke within a day** of forming, and about half within ten days.\nTheir warning goes with the figures: those shares only describe dams that broke,\nand many landslide dams never do.\n\nPawan Bhattarai of Tribhuvan University, quoted by Al Jazeera on 28 August: \"The\ndanger is not just the lake itself, but the possibility of sudden dam failure.\"\n\nThe valley below them has lost its road and most of its bridges.\n\n**On the map:** the teal shapes are the two lakes \u00b7 brown is where the mountain\nbroke away\n",
           "paneAlignment": "start",
           "panelWidth": "34%",
           "title": "What is still up there"
@@ -2899,101 +2898,6 @@
       "type": "StorySegmentLayer",
       "visible": true
     },
-    "2c7f4b20-0000-4000-8001-000000000018": {
-      "name": "Why a barrier lake is dangerous",
-      "parameters": {
-        "content": {
-          "attachments": {},
-          "contentMode": "markdown",
-          "image": "",
-          "imageCaption": "",
-          "markdown": "**A pile of debris across a river is not a dam anyone built, and most do not hold\nfor long.**\n\nCosta and Schuster collected 73 landslide dams where the lifetime was known.\n**27 per cent broke within a day** of forming. About half broke within ten days.\n85 per cent broke within a year. The usual way is overtopping: the lake fills,\nspills over the debris, and cuts its own way out.\n\nThey gave a warning with those figures. The shares only describe dams that broke.\nMany landslide dams form and never break.\n\nPawan Bhattarai of Tribhuvan University, quoted by Al Jazeera on 28 August: \"The\ndanger is not just the lake itself, but the possibility of sudden dam failure.\"\n",
-          "paneAlignment": "start",
-          "panelWidth": "34%",
-          "title": "Why a barrier lake is dangerous"
-        },
-        "extent": [
-          9506482.244482705,
-          3280427.2070211447,
-          9528037.48645935,
-          3296306.9996475573
-        ],
-        "layerOverride": [
-          {
-            "opacity": 0.25,
-            "targetLayer": "2c7f4b20-0000-4000-8000-000000000002",
-            "visible": true
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-000000000003",
-            "visible": false
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-000000000004",
-            "visible": false
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-000000000005",
-            "visible": false
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-000000000006",
-            "visible": false
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-000000000007",
-            "visible": false
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-000000000008",
-            "visible": false
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-000000000009",
-            "visible": false
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-00000000000a",
-            "visible": false
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-00000000000b",
-            "visible": false
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-00000000000c",
-            "visible": true
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-00000000000d",
-            "visible": true
-          },
-          {
-            "opacity": 1.0,
-            "targetLayer": "2c7f4b20-0000-4000-8000-00000000000f",
-            "visible": false
-          }
-        ],
-        "transition": {
-          "time": 2.0,
-          "type": "linear"
-        },
-        "zoom": 13.0
-      },
-      "type": "StorySegmentLayer",
-      "visible": true
-    },
     "2c7f4b20-0000-4000-8001-000000000019": {
       "name": "What could still happen",
       "parameters": {
@@ -3189,17 +3093,17 @@
   "options": {
     "bearing": 0.0,
     "extent": [
-      9514624.005008124,
-      3282569.999638272,
-      9525550.756066285,
-      3288348.361032847
+      9491510.181176897,
+      3275293.124909185,
+      9535217.185409546,
+      3298406.5704874843
     ],
-    "latitude": 28.28900000027336,
-    "longitude": 85.52040000089949,
+    "latitude": 28.300000000273414,
+    "longitude": 85.46000000089887,
     "pitch": 0.0,
     "projection": "EPSG:3857",
     "useExtent": false,
-    "zoom": 14.4
+    "zoom": 12.400000000000002
   },
   "presets": {},
   "schemaVersion": "0.6.0",
@@ -3379,12 +3283,11 @@
         "2c7f4b20-0000-4000-8001-000000000011",
         "2c7f4b20-0000-4000-8001-000000000012",
         "2c7f4b20-0000-4000-8001-000000000013",
-        "2c7f4b20-0000-4000-8001-000000000014",
         "2c7f4b20-0000-4000-8001-000000000015",
         "2c7f4b20-0000-4000-8001-000000000016",
-        "2c7f4b20-0000-4000-8001-000000000017",
-        "2c7f4b20-0000-4000-8001-000000000018",
         "2c7f4b20-0000-4000-8001-000000000019",
+        "2c7f4b20-0000-4000-8001-000000000017",
+        "2c7f4b20-0000-4000-8001-000000000014",
         "2c7f4b20-0000-4000-8001-000000000020"
       ],
       "storyType": "Vertical Scroll",
