@@ -4583,7 +4583,7 @@
         "attribution": "(C) OpenStreetMap contributors",
         "bounds": [],
         "htmlAttribution": "",
-        "interpolate": false,
+        "interpolate": true,
         "maxZoom": 19.0,
         "minZoom": 0.0,
         "provider": "OpenStreetMap",

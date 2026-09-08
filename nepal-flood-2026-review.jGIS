@@ -2,7 +2,6 @@
   "annotations": {},
   "layerTree": [
     "2c7f4b20-0000-4000-8000-000000000001",
-    "2c7f4b20-0000-4000-8000-00000000000e",
     "2c7f4b20-0000-4000-8000-000000000002",
     "2c7f4b20-0000-4000-8000-000000000006",
     "2c7f4b20-0000-4000-8000-000000000004",
@@ -35,7 +34,8 @@
     "2c7f4b20-0000-4000-8001-000000000003",
     "2c7f4b20-0000-4000-8001-000000000002",
     "2c7f4b20-0000-4000-8001-000000000001",
-    "2c7f4b20-0000-4000-8001-000000000000"
+    "2c7f4b20-0000-4000-8001-000000000000",
+    "2c7f4b20-0000-4000-8000-00000000000e"
   ],
   "layers": {
     "2c7f4b20-0000-4000-8000-000000000001": {
@@ -3093,10 +3093,10 @@
   "options": {
     "bearing": 0.0,
     "extent": [
-      9491510.181176897,
-      3275293.124909185,
-      9535217.185409546,
-      3298406.5704874843
+      9491206.056892972,
+      3274684.876341334,
+      9535521.30969347,
+      3299014.819055334
     ],
     "latitude": 28.300000000273414,
     "longitude": 85.46000000089887,
@@ -3114,7 +3114,7 @@
         "attribution": "Esri, Maxar, Earthstar Geographics, and the GIS User Community",
         "bounds": [],
         "htmlAttribution": "",
-        "interpolate": false,
+        "interpolate": true,
         "maxZoom": 19.0,
         "minZoom": 0.0,
         "provider": "Esri",
@@ -3138,7 +3138,7 @@
       "name": "Reaches, by bed gradient",
       "parameters": {
         "httpHeaders": "",
-        "path": "data/nepal-flood-2026/reach-bands.geojson",
+        "path": "data/nepal-flood-2026-review/reach-bands.geojson",
         "useProxy": false
       },
       "type": "GeoJSONSource"
@@ -3234,16 +3234,16 @@
       "type": "GeoJSONSource"
     },
     "2c7f4b20-0000-4001-8000-00000000000e": {
-      "name": "Place labels",
+      "name": "Esri World Boundaries and Places",
       "parameters": {
-        "attribution": "(C) OpenStreetMap contributors (C) CARTO",
+        "attribution": "Esri, HERE, Garmin, FAO, NOAA, USGS",
         "bounds": [],
         "htmlAttribution": "",
-        "interpolate": false,
+        "interpolate": true,
         "maxZoom": 19.0,
         "minZoom": 0.0,
-        "provider": "CARTO",
-        "url": "https://basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
+        "provider": "Esri",
+        "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}",
         "urlParameters": {},
         "useProxy": false
       },
