@@ -13,10 +13,12 @@ Lhende Khola to where the Gandak reaches the Ganga, falling 2,215 m.
 ## Contents
 
 ```
-nepal-flood-2026.jGIS      the story map, 22 segments
-data/nepal-flood-2026/     18 GeoJSON layers, 5 JSON sidecars
-METHODS.md                 how the derived files were made, and what is absent
-LICENCES.md                per-file licensing and attribution
+nepal-flood-2026.jGIS           the story map, 22 segments
+data/nepal-flood-2026/          18 GeoJSON layers, 5 JSON sidecars
+data/nepal-flood-2026-review/   11 layers from the assessments published later,
+                                8 figures, and per-layer notes
+METHODS.md                      how the derived files were made, and what is absent
+LICENCES.md                     per-file licensing and attribution
 ```
 
 Open `nepal-flood-2026.jGIS` in JupyterGIS. The figures are embedded in the
@@ -49,13 +51,42 @@ There is no casualty, damage or response geometry here at all. Nepal's
 [NDRRMA](https://bipadportal.gov.np/) publishes those. `METHODS.md` gives the
 method behind each number and lists what is deliberately absent, and why.
 
+## What was published afterwards
+
+`data/nepal-flood-2026-review/` holds the assessments that appeared in the week
+after the first map was built, put onto the same channel so the two can be held
+against each other. It is a check on the first map rather than a correction of
+it.
+
+Two results, both in `comparison.json`:
+
+- **Bed gradient predicted damage well.** Bridges destroyed run 16 of 16 in the
+  steep gorge, 22 of 47 in the middle valley and 6 of 108 on the open valley,
+  against measured bed gradients of 42.5, 24.3 and 2.6 m per km.
+- **Distance from the channel predicted it badly.** Observed damage sits a
+  median 108 m from the water, against the 500 m, 1 km and 3 km buffers the
+  first map counted people in, and those counts pointed downstream while the
+  damage fell upstream.
+
+Two things to know before quoting any figure out of it. The damage record ends
+at km 78.0, and the volunteer mapping projects change over at km 78.9, so
+`mapping-projects.geojson` is included to stop the end of the record being read
+as the end of the damage. And four organisations counted destroyed buildings
+over different ground by different methods, arriving at 2,813, 5,048, 1,641 and
+677; none of those is the number, and `layer-notes.json` says what each one
+covers.
+
+As with the first dataset, the scripts that fetch the sources and write these
+files are not distributed here. `METHODS.md` describes each derivation instead,
+and `layer-notes.json` carries the caveat for each layer.
+
 ## About this copy
 
-This is a standalone deposit. The same story map ships as an example inside
-[JupyterGIS](https://github.com/geojupyter/jupytergis), alongside the seven
-Python scripts that fetch the inputs and write these files.
+This is a standalone deposit. The first story map also ships as an example
+inside [JupyterGIS](https://github.com/geojupyter/jupytergis), alongside the
+seven Python scripts that fetch its inputs and write its files.
 
-Those scripts are not distributed here, so `METHODS.md` stands in for them: it
+Those seven are not distributed here, so `METHODS.md` stands in for them: it
 describes each derivation rather than letting you re-run it. Three consequences,
 all cosmetic:
 

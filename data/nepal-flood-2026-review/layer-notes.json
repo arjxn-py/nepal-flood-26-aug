@@ -1,0 +1,16 @@
+{
+ "about": "Per-layer caveats. Every feature carries source, source_url, licence, retrieved and tier; this file holds the longer caveat that would otherwise repeat on every feature.",
+ "layers": {
+  "extent-hot.geojson": "Single-date interpretation of drone, Landsat, PlanetScope and Sentinel imagery for 27 August. Not a surveyed boundary; levels changed through the event. Vertices thinned to a 5 m tolerance for drawing; areas quoted here were measured on the unsimplified geometry.",
+  "extent-unosat.geojson": "Multisensor, 26-28 August. Covers a larger analysis extent than the HOT line and is not restricted to open water, which is most of why the two differ. Vertices thinned to a 5 m tolerance for drawing; areas quoted here were measured on the unsimplified geometry.",
+  "timed-places.geojson": "Arrival times as NDRRMA published them in situation report 01, on the OpenStreetMap location of each place. They are the hour the wave was reported passing, not a gauge trace, and NDRRMA give no uncertainty on them. The modelled arrival windows in the first map's arrival-times.json are a separate estimate and disagree with these by hours in the lower reach.",
+  "destroyed-features.geojson": "Status set by OpenStreetMap volunteers from imagery. An untagged cause is untagged, not unknown: 1,801 of these carry no damage_type.",
+  "bridges.geojson": "Every bridge inside the extent, standing or not.",
+  "schools.geojson": "Schools inside the observed extent.",
+  "copernicus-grading.geojson": "Damage graded by photo-interpretation of post-event imagery. AOI 03 was re-flown: its initial and monitoring rounds are both here, so the change a second look made is visible rather than averaged away.",
+  "not-analysed.geojson": "Ground the analysts could not assess, usually cloud. A damage count from an AOI with a large not-analysed area is a floor, not a total. Vertices thinned to a 5 m tolerance for drawing; areas quoted here were measured on the unsimplified geometry.",
+  "mapping-projects.geojson": "Tasking Manager project areas. The damage record ends at km 78.0 and these projects change over at km 78.9, so the end of the record is a boundary in the mapping campaign as much as anything on the ground. Vertices thinned to a 5 m tolerance for drawing; areas quoted here were measured on the unsimplified geometry.",
+  "barrier-lakes.geojson": "Detected on CARTOSAT-3 imagery of 28 August. UNOSAT state this is a preliminary analysis and has not been validated in the field. The polygons carry no area attribute of their own; these areas are measured here. Vertices thinned to a 5 m tolerance for drawing; areas quoted here were measured on the unsimplified geometry.",
+  "detachment-zone.geojson": "The source area, mapped from Landsat 9. UNOSAT call this a detachment zone following an ice-rock avalanche; Copernicus record the event as a glacial lake outburst flood and the USGS re-typed it a landslide. The geometry is the same ground under three names. Its SensorDate field reads 2026-09-26, which is after the retrieval date and is left uncorrected here. Vertices thinned to a 5 m tolerance for drawing; areas quoted here were measured on the unsimplified geometry."
+ }
+}

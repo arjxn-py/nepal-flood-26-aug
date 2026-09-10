@@ -1,0 +1,4 @@
+# JupyterLab session state, not deposit content
+.jupyter_ystore.db
+.jupyter/
+.ipynb_checkpoints/
