@@ -56,7 +56,7 @@
           "imageCaption": "",
           "markdown": "**Here the riverbed drops 42.5 m every kilometre, and the valley walls are close\ntogether.**\n\nThe river used to be a thin line through forest. It is now bare rock from one\nwall to the other. In this 6 by 6 km box, **715 features** are marked destroyed.\nThat counts buildings, roads and bridges together. Three health posts were lost\ntoo: at Timure, Rasuwagadhi and Syafrubesi.\n\nOn ground this steep, the water hits instead of rising.\n\n**On the map:** bridges, dark red where lost\n",
           "paneAlignment": "start",
-          "panelWidth": "40%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -163,7 +163,7 @@
             "visible": false
           }
         ],
-        "pitch": 60.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.2,
           "type": "linear"
@@ -1078,7 +1078,7 @@
           "imageCaption": "",
           "markdown": "**10:28. Galchhi, 90 km down.**\n\nFrom here on the times are the ones people reported. Between two timed places the blue line is spread evenly by distance. Nobody timed those stretches.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -1277,7 +1277,7 @@
             "visible": true
           }
         ],
-        "pitch": 55.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.6,
           "type": "linear"
@@ -1552,7 +1552,7 @@
           "imageCaption": "",
           "markdown": "**Ten minutes later, the river gauge at Syafrubesi stopped sending.**\n\nIts last reading was **1.62 m**. The gauge sits twenty kilometres below the\nslope. It never sent again.\n\nBy **09:15** the Department of Hydrology and Meteorology had confirmed a flood\nwave. It warned people down the Trishuli. **679,295 text\nmessages** went out to phones along the river.\n\nThe warning reached everyone below the gauge. The people above it already had\nthe water.\n\n**On the map:** red dots are what was later marked destroyed\n",
           "paneAlignment": "start",
-          "panelWidth": "40%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -1659,7 +1659,7 @@
             "visible": false
           }
         ],
-        "pitch": 50.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.2,
           "type": "linear"
@@ -2139,7 +2139,7 @@
           "imageCaption": "",
           "markdown": "**Six kilometres on, the bed is flatter, at 24.3 m per km. The valley is opening\nout.**\n\nA box of the same size holds **342** destroyed. That is less than half the gorge.\nThe ground is gentler here, so more people build on it. Downstream in Nuwakot\nalone, **1,267 houses** were fully damaged and\n**1,253** partly damaged.\n\n**On the map:** the blue fill is the water line that was observed\n",
           "paneAlignment": "start",
-          "panelWidth": "40%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -2246,7 +2246,7 @@
             "visible": false
           }
         ],
-        "pitch": 60.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.4,
           "type": "linear"
@@ -2268,7 +2268,7 @@
           "imageCaption": "",
           "markdown": "**Both lakes sit above the valley the flood has just been through.**\n\nOn 27 August, China's Ministry of Water Resources put one of them at\n**1.5 to 2 million m\u00b3**. It expected 3 million more within three days.\n\nWhat happened next is reported three different ways. Rasuwa officials said on\n28 August that the lake had started to overflow. The Kathmandu Post reported the\nsame day that the Army had told the district officer it had broken through. The\nStimson Center, reading Planet images, wrote that both lakes were still growing.\n\nStimson were more worried about the slope than about the lakes. They warned that\nsmaller slides could start again if it rained hard in the days after. ICIMOD has\nasked for monitoring across the region, because this one started on the Nepali\nside, outside the Chinese early-warning area.\n",
           "paneAlignment": "start",
-          "panelWidth": "45%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -2375,7 +2375,7 @@
             "visible": false
           }
         ],
-        "pitch": 55.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.2,
           "type": "linear"
@@ -2526,7 +2526,7 @@
           "imageCaption": "",
           "markdown": "**About 09:00. The water reaches Timure, 14 km down.**\n\nICIMOD says the Bhote Koshi began rising around 9:00. This story reads that as the water reaching Timure, 23 minutes after the slope gave way.\n\n**On the map:** the blue line is where the water had got to by then.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -2725,7 +2725,7 @@
             "visible": true
           }
         ],
-        "pitch": 55.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.6,
           "type": "linear"
@@ -2747,7 +2747,7 @@
           "imageCaption": "",
           "markdown": "**11:50. Malekhu, 115 km down.**\n",
           "paneAlignment": "start",
-          "panelWidth": "34%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -2946,7 +2946,7 @@
             "visible": true
           }
         ],
-        "pitch": 55.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.6,
           "type": "linear"
@@ -2968,7 +2968,7 @@
           "imageCaption": "",
           "markdown": "**15:20. Devghat, 189 km down, 6 h 43 min after the slope gave way.**\n\nIt peaked here about an hour later, at some 5,850 m\u00b3/s. Looking back up the valley, the blue line runs all the way to the slope.\n",
           "paneAlignment": "start",
-          "panelWidth": "34%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -3167,7 +3167,7 @@
             "visible": true
           }
         ],
-        "pitch": 55.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.6,
           "type": "linear"
@@ -3189,7 +3189,7 @@
           "imageCaption": "",
           "markdown": "**The wave took most of a working day to cross the country. People timed it the\nwhole way.**\n\nGalchhi **10:28** \u00b7 Malekhu **11:50** \u00b7 Mugling **13:00** \u00b7 Devghat **15:20**. At Devghat it peaked about an hour later, at some **5,850 m\u00b3/s**.\n\nThose four places are 90, 115, 155 and 189 km down the river from the\nslope.\n\n**57.4 million m\u00b3** of water passed in all. About\n20.0 million of that was on top of what the\nriver was already carrying.\n\n**On the map:** four violet dots down the yellow reach, upstream to downstream\nin the order above, getting darker as the day goes on\n",
           "paneAlignment": "start",
-          "panelWidth": "40%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -3457,7 +3457,7 @@
           "imageCaption": "",
           "markdown": "**196 hectares of mountainside are gone.**\n\nThe scar was mapped from Landsat 9 images taken on the day it happened. NDRRMA\nput the mass that broke off at about a square kilometre of rock and old glacier\ndebris.\n\nIt sits above the Lhende Khola. That is a small river that joins the Bhote Koshi\nten kilometres below. Nothing up here could be damaged. Everything else in this\nmap happened downhill of it.\n\n**On the map:** the brown outline is where it broke away\n",
           "paneAlignment": "start",
-          "panelWidth": "40%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -4213,7 +4213,7 @@
           "imageCaption": "",
           "markdown": "**13:00. Mugling, 155 km down.**\n",
           "paneAlignment": "start",
-          "panelWidth": "34%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -4412,7 +4412,7 @@
             "visible": true
           }
         ],
-        "pitch": 55.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.6,
           "type": "linear"
@@ -4899,7 +4899,7 @@
           "imageCaption": "",
           "markdown": "**The debris blocked the river in places. Those blockages are still forming, and\nstill breaking.**\n\nUNOSAT saw two barrier lakes on images from 28 August,\n**20 ha** and\n**12 ha**. NDRRMA report that some have since\ndrained, and that more can form while the banks are loose and the rain keeps\ncoming.\n\nA pile of debris across a river is not a dam anyone built. Of 73 landslide dams\nwhose lifetime was known, Costa and Schuster found\n**27 per cent broke within a day**, and about half within ten days. Those shares\nonly describe dams that broke. Many never do.\n\nPawan Bhattarai of Tribhuvan University, quoted by Al Jazeera on 28 August: \"The\ndanger is not just the lake itself, but the possibility of sudden dam failure.\"\n\nThe valley below has lost its road and most of its bridges.\n\n**On the map:** the teal shapes are the two lakes \u00b7 brown is where the mountain\nbroke away\n",
           "paneAlignment": "start",
-          "panelWidth": "45%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -5326,7 +5326,7 @@
           "imageCaption": "",
           "markdown": "**Past Bidur the bed drops only 2.6 m per km. The river finally has room.**\n\nYou can still see the channel, but the valley is wide enough to hold it. The same\nbox holds **154** destroyed, against 342 and 715 upstream.\n\n**715, then 342, then 154**, in three boxes of the same size down one river.\n",
           "paneAlignment": "start",
-          "panelWidth": "40%"
+          "panelWidth": "30rem"
         },
         "enableIdentify": false,
         "extent": [
@@ -5433,7 +5433,7 @@
             "visible": false
           }
         ],
-        "pitch": 55.0,
+        "pitch": 45.0,
         "transition": {
           "time": 2.4,
           "type": "linear"
@@ -5543,7 +5543,7 @@
     "latitude": 28.225771064748017,
     "longitude": 85.36450138036508,
     "mapAdapter": "maplibre",
-    "pitch": 60.0,
+    "pitch": 45.0,
     "projection": "EPSG:3857",
     "zoom": 11.23882095106105
   },
