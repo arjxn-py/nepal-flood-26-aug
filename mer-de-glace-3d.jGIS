@@ -8,6 +8,7 @@
     "28dce379-cc56-4740-a4aa-67b2555c072b",
     "4dd5c4b7-67b8-47a7-9f86-02acf6e2c85a",
     "f1c4e903-0330-4719-8530-0a959b8dcd37",
+    "dd752981-92cd-4805-aaa6-f03b39c4e770",
     "9ffbe8aa-e3ac-4736-b4e1-dbb58483ad9e",
     "7e9bdb72-dcb2-46e2-8b09-11190df05729",
     "b4f41f48-311d-45b9-a57f-d180f903c51f",
@@ -358,7 +359,7 @@
       "filters": null,
       "name": "All five outlines",
       "parameters": {
-        "bearing": 250.0,
+        "bearing": 290.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -371,9 +372,9 @@
         "enableIdentify": false,
         "extent": [
           770776.1542526261,
-          5769778.974737292,
+          5769458.860748386,
           770776.1542526261,
-          5769778.974737292
+          5769458.860748386
         ],
         "layerOverride": [
           {
@@ -422,7 +423,7 @@
           "time": 3.0,
           "type": "linear"
         },
-        "zoom": 13.6
+        "zoom": 13.3
       },
       "type": "StorySegmentLayer",
       "visible": true
@@ -504,7 +505,7 @@
       "filters": null,
       "name": "2015",
       "parameters": {
-        "bearing": 200.0,
+        "bearing": 230.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -563,9 +564,9 @@
             "visible": false
           }
         ],
-        "pitch": 40.0,
+        "pitch": 50.0,
         "transition": {
-          "time": 1.5,
+          "time": 3.0,
           "type": "linear"
         },
         "zoom": 13.5
@@ -689,7 +690,7 @@
       "filters": null,
       "name": "1967",
       "parameters": {
-        "bearing": 200.0,
+        "bearing": 140.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -748,7 +749,7 @@
             "visible": false
           }
         ],
-        "pitch": 40.0,
+        "pitch": 50.0,
         "transition": {
           "time": 3.0,
           "type": "linear"
@@ -845,7 +846,7 @@
       "filters": null,
       "name": "2022",
       "parameters": {
-        "bearing": 200.0,
+        "bearing": 260.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -904,9 +905,9 @@
             "visible": true
           }
         ],
-        "pitch": 40.0,
+        "pitch": 45.0,
         "transition": {
-          "time": 1.5,
+          "time": 3.0,
           "type": "linear"
         },
         "zoom": 13.5
@@ -918,7 +919,7 @@
       "filters": null,
       "name": "1986",
       "parameters": {
-        "bearing": 200.0,
+        "bearing": 170.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -977,9 +978,9 @@
             "visible": false
           }
         ],
-        "pitch": 40.0,
+        "pitch": 55.0,
         "transition": {
-          "time": 1.5,
+          "time": 3.0,
           "type": "linear"
         },
         "zoom": 13.5
@@ -1061,9 +1062,9 @@
             "visible": false
           }
         ],
-        "pitch": 40.0,
+        "pitch": 55.0,
         "transition": {
-          "time": 1.5,
+          "time": 3.0,
           "type": "linear"
         },
         "zoom": 13.5
@@ -1181,6 +1182,79 @@
         }
       },
       "type": "VectorLayer",
+      "visible": true
+    },
+    "dd752981-92cd-4805-aaa6-f03b39c4e770": {
+      "filters": null,
+      "name": "The whole glacier",
+      "parameters": {
+        "bearing": 0.0,
+        "content": {
+          "attachments": {},
+          "contentMode": "map",
+          "image": "",
+          "imageCaption": "",
+          "markdown": "**The outline covers the whole glacier, about 10.6 km from its northern to its southern end in 2022.**\n\nWe are now looking north, down the glacier. The ice comes from the basins in front and ends at the tongue in the distance, toward Chamonix.\n\nThe years are compared at the tongue, so the next steps zoom in there.\n",
+          "paneAlignment": "start",
+          "panelWidth": "30%"
+        },
+        "enableIdentify": false,
+        "extent": [
+          770330.876289453,
+          5762739.131636348,
+          770330.876289453,
+          5762739.131636348
+        ],
+        "layerOverride": [
+          {
+            "color": {},
+            "opacity": 1.0,
+            "sourceProperties": {},
+            "symbologyState": {},
+            "targetLayer": "7ad4bdee-6fe0-4ed4-b457-3d86404c89ae",
+            "visible": false
+          },
+          {
+            "color": {},
+            "opacity": 1.0,
+            "sourceProperties": {},
+            "symbologyState": {},
+            "targetLayer": "2ee71e6b-e9c6-455a-88b9-d4bc8cf56440",
+            "visible": false
+          },
+          {
+            "color": {},
+            "opacity": 1.0,
+            "sourceProperties": {},
+            "symbologyState": {},
+            "targetLayer": "28dce379-cc56-4740-a4aa-67b2555c072b",
+            "visible": false
+          },
+          {
+            "color": {},
+            "opacity": 1.0,
+            "sourceProperties": {},
+            "symbologyState": {},
+            "targetLayer": "4dd5c4b7-67b8-47a7-9f86-02acf6e2c85a",
+            "visible": false
+          },
+          {
+            "color": {},
+            "opacity": 1.0,
+            "sourceProperties": {},
+            "symbologyState": {},
+            "targetLayer": "f1c4e903-0330-4719-8530-0a959b8dcd37",
+            "visible": true
+          }
+        ],
+        "pitch": 45.0,
+        "transition": {
+          "time": 3.0,
+          "type": "linear"
+        },
+        "zoom": 11.9
+      },
+      "type": "StorySegmentLayer",
       "visible": true
     }
   },
@@ -46291,6 +46365,7 @@
     "6a84a88f-d863-4360-80e5-a5a7093309d3": {
       "storySegments": [
         "9ffbe8aa-e3ac-4736-b4e1-dbb58483ad9e",
+        "dd752981-92cd-4805-aaa6-f03b39c4e770",
         "7e9bdb72-dcb2-46e2-8b09-11190df05729",
         "b4f41f48-311d-45b9-a57f-d180f903c51f",
         "e3065272-a2fb-48b7-a85b-cbbd133cc200",
