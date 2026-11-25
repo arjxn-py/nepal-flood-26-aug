@@ -359,7 +359,7 @@
       "filters": null,
       "name": "All five outlines",
       "parameters": {
-        "bearing": 290.0,
+        "bearing": 180.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -418,7 +418,7 @@
             "visible": true
           }
         ],
-        "pitch": 35.0,
+        "pitch": 40.0,
         "transition": {
           "time": 3.0,
           "type": "linear"
@@ -505,7 +505,7 @@
       "filters": null,
       "name": "2015",
       "parameters": {
-        "bearing": 230.0,
+        "bearing": 120.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -690,7 +690,7 @@
       "filters": null,
       "name": "1967",
       "parameters": {
-        "bearing": 140.0,
+        "bearing": 30.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -751,7 +751,7 @@
         ],
         "pitch": 50.0,
         "transition": {
-          "time": 3.0,
+          "time": 4.0,
           "type": "linear"
         },
         "zoom": 13.5
@@ -773,7 +773,7 @@
       "filters": null,
       "name": "The Mer de Glace",
       "parameters": {
-        "bearing": 170.0,
+        "bearing": 200.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -846,7 +846,7 @@
       "filters": null,
       "name": "2022",
       "parameters": {
-        "bearing": 260.0,
+        "bearing": 150.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -905,7 +905,7 @@
             "visible": true
           }
         ],
-        "pitch": 45.0,
+        "pitch": 50.0,
         "transition": {
           "time": 3.0,
           "type": "linear"
@@ -919,7 +919,7 @@
       "filters": null,
       "name": "1986",
       "parameters": {
-        "bearing": 170.0,
+        "bearing": 60.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -978,7 +978,7 @@
             "visible": false
           }
         ],
-        "pitch": 55.0,
+        "pitch": 50.0,
         "transition": {
           "time": 3.0,
           "type": "linear"
@@ -1003,7 +1003,7 @@
       "filters": null,
       "name": "2003",
       "parameters": {
-        "bearing": 200.0,
+        "bearing": 90.0,
         "content": {
           "attachments": {},
           "contentMode": "map",
@@ -1062,7 +1062,7 @@
             "visible": false
           }
         ],
-        "pitch": 55.0,
+        "pitch": 50.0,
         "transition": {
           "time": 3.0,
           "type": "linear"
@@ -1249,7 +1249,7 @@
         ],
         "pitch": 45.0,
         "transition": {
-          "time": 3.0,
+          "time": 5.0,
           "type": "linear"
         },
         "zoom": 11.9
